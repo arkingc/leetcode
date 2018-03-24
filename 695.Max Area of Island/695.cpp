@@ -12,8 +12,10 @@ public:
         int rows = grid.size(),columns = grid[0].size();   
         for(int i = 0;i < rows;i++){
             for(int j = 0;j < columns;j++){
-                int area = DFS(grid,i,j,rows,columns);
-                res = area > res ? area : res; 
+                if(grid[i][j] == 1){
+                    int area = DFS(grid,i,j,rows,columns);
+                    res = area > res ? area : res; 
+                }
             }
         }
         
