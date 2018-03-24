@@ -15,3 +15,4 @@ Leetcode solutions in C++ 11
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C++](160.Intersection%20of%20Two%20Linked%20Lists/160.cpp)|[Note](160.Intersection%20of%20Two%20Linked%20Lists/README.md)|Easy|链表|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)|[C++](203.Remove%20Linked%20List%20Elements/203.cpp)|[Note](203.Remove%20Linked%20List%20Elements/README.md)|Easy|链表|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[C++](206.Reverse%20Linked%20List/206.cpp)|[Note](206.Reverse%20Linked%20List/README.md)|Easy|链表|
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)|[C++](695.Max%20Area%20of%20Island/695.cpp)|[Note](695.Max%20Area%20of%20Island/README.md)|Easy|图|
