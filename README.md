@@ -11,6 +11,7 @@ Leetcode solutions in C++ 11
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[C++](24.Swap%20Nodes%20in%20Pairs/24.cpp)|[Note](24.Swap%20Nodes%20in%20Pairs/README.md)|Medium|链表|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[C++](26.Remove%20Duplicates%20from%20Sorted%20Array/26.cpp)|[Note](26.Remove%20Duplicates%20from%20Sorted%20Array/README.md)|Easy|数组|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[C++](28.Implement%20strStr/28.cpp)|[Note](28.Implement%20strStr/README.md)|Easy|字符串|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[C++](29.Divide%20Two%20Integers/29.cpp)|[Note](29.Divide%20Two%20Integers/README.md)|Medium|数学|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[C++](31.Next%20Permutation/31.cpp)|[Note](31.Next%20Permutation/README.md)|Medium|数组|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C++](83.Remove%20Duplicates%20from%20Sorted%20List/83.cpp)|[Note](83.Remove%20Duplicates%20from%20Sorted%20List/README.md)|Easy|链表|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C++](160.Intersection%20of%20Two%20Linked%20Lists/160.cpp)|[Note](160.Intersection%20of%20Two%20Linked%20Lists/README.md)|Easy|链表|
