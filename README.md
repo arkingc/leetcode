@@ -13,6 +13,7 @@ Leetcode solutions in C++ 11
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[C++](28.Implement%20strStr/28.cpp)|[Note](28.Implement%20strStr/README.md)|Easy|字符串|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[C++](29.Divide%20Two%20Integers/29.cpp)|[Note](29.Divide%20Two%20Integers/README.md)|Medium|数学|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[C++](31.Next%20Permutation/31.cpp)|[Note](31.Next%20Permutation/README.md)|Medium|数组|
+|33|[有序数组旋转后的查找](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[C++](33.Search%20in%20Rotated%20Sorted%20Array/33.cpp)|[Note](33.Search%20in%20Rotated%20Sorted%20Array/README.md)|Medium|查找|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C++](83.Remove%20Duplicates%20from%20Sorted%20List/83.cpp)|[Note](83.Remove%20Duplicates%20from%20Sorted%20List/README.md)|Easy|链表|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C++](160.Intersection%20of%20Two%20Linked%20Lists/160.cpp)|[Note](160.Intersection%20of%20Two%20Linked%20Lists/README.md)|Easy|链表|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)|[C++](203.Remove%20Linked%20List%20Elements/203.cpp)|[Note](203.Remove%20Linked%20List%20Elements/README.md)|Easy|链表|
