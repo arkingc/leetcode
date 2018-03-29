@@ -14,7 +14,9 @@ Leetcode solutions in C++ 11
 |29|[不用乘除取模实现整数除法](https://leetcode.com/problems/divide-two-integers/description/)|[C++](29.Divide%20Two%20Integers/29.cpp)|[Note](29.Divide%20Two%20Integers/README.md)|Medium|数学|
 |31|[数组元素序列中按字典序的下一个序列](https://leetcode.com/problems/next-permutation/description/)|[C++](31.Next%20Permutation/31.cpp)|[Note](31.Next%20Permutation/README.md)|Medium|数组|
 |33|[有序数组旋转后的查找](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[C++](33.Search%20in%20Rotated%20Sorted%20Array/33.cpp)|[Note](33.Search%20in%20Rotated%20Sorted%20Array/README.md)|Medium|查找|
+|34|[有序数组中查找数字的范围](https://leetcode.com/problems/search-for-a-range/description/)|[C++](34.Search%20for%20a%20Range/34.cpp)|[Note](34.Search%20for%20a%20Range/README.md)|Medium|查找|
 |83|[删除有序链表的冗余节点](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C++](83.Remove%20Duplicates%20from%20Sorted%20List/83.cpp)|[Note](83.Remove%20Duplicates%20from%20Sorted%20List/README.md)|Easy|链表|
+|152|[连续子数组的最大积](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](152.%20Maximum%20Product%20Subarray/152.cpp)|[Note](152.%20Maximum%20Product%20Subarray/README.md)|Medium|动态规划|
 |160|[两个链表的相交节点](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C++](160.Intersection%20of%20Two%20Linked%20Lists/160.cpp)|[Note](160.Intersection%20of%20Two%20Linked%20Lists/README.md)|Easy|链表|
 |203|[删除链表中等于给定值的所有节点](https://leetcode.com/problems/remove-linked-list-elements/description/)|[C++](203.Remove%20Linked%20List%20Elements/203.cpp)|[Note](203.Remove%20Linked%20List%20Elements/README.md)|Easy|链表|
 |206|[链表反序](https://leetcode.com/problems/reverse-linked-list/description/)|[C++](206.Reverse%20Linked%20List/206.cpp)|[Note](206.Reverse%20Linked%20List/README.md)|Easy|链表|
