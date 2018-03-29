@@ -11,7 +11,7 @@ Leetcode solutions in C++ 11
 |24|[成对交换链表中的节点](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[C++](24.Swap%20Nodes%20in%20Pairs/24.cpp)|[Note](24.Swap%20Nodes%20in%20Pairs/README.md)|Medium|链表|
 |26|[删除有序数组中的冗余元素](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[C++](26.Remove%20Duplicates%20from%20Sorted%20Array/26.cpp)|[Note](26.Remove%20Duplicates%20from%20Sorted%20Array/README.md)|Easy|数组|
 |28|[实现子串查找函数strStr()](https://leetcode.com/problems/implement-strstr/description/)|[C++](28.Implement%20strStr/28.cpp)|[Note](28.Implement%20strStr/README.md)|Easy|字符串|
-|29|[不用乘除取模实现整数除法](https://leetcode.com/problems/divide-two-integers/description/)|[C++](29.Divide%20Two%20Integers/29.cpp)|[Note](29.Divide%20Two%20Integers/README.md)|Medium|数学|
+|29|[不用乘除取模实现整数除法](https://leetcode.com/problems/divide-two-integers/description/)|[C++](29.Divide%20Two%20Integers/29.cpp)|[Note](29.Divide%20Two%20Integers/README.md)|Medium|条件限制|
 |31|[数组元素序列中按字典序的下一个序列](https://leetcode.com/problems/next-permutation/description/)|[C++](31.Next%20Permutation/31.cpp)|[Note](31.Next%20Permutation/README.md)|Medium|数组|
 |33|[有序数组旋转后的查找](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[C++](33.Search%20in%20Rotated%20Sorted%20Array/33.cpp)|[Note](33.Search%20in%20Rotated%20Sorted%20Array/README.md)|Medium|查找|
 |34|[有序数组中查找数字的范围](https://leetcode.com/problems/search-for-a-range/description/)|[C++](34.Search%20for%20a%20Range/34.cpp)|[Note](34.Search%20for%20a%20Range/README.md)|Medium|查找|
