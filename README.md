@@ -15,6 +15,7 @@ Leetcode solutions in C++ 11
 |31|[数组元素序列中按字典序的下一个序列](https://leetcode.com/problems/next-permutation/description/)|[C++](31.Next%20Permutation/31.cpp)|[Note](31.Next%20Permutation/README.md)|Medium|数组|
 |33|[有序数组旋转后的查找](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[C++](33.Search%20in%20Rotated%20Sorted%20Array/33.cpp)|[Note](33.Search%20in%20Rotated%20Sorted%20Array/README.md)|Medium|查找|
 |34|[有序数组中查找数字的范围](https://leetcode.com/problems/search-for-a-range/description/)|[C++](34.Search%20for%20a%20Range/34.cpp)|[Note](34.Search%20for%20a%20Range/README.md)|Medium|查找|
+|36|[有效数独](https://leetcode.com/problems/valid-sudoku/description/)|[C++](36.Valid%20Sudoku/36.cpp)|[Note](36.Valid%20Sudoku/README.md)|Medium|数组|
 |83|[删除有序链表的冗余节点](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C++](83.Remove%20Duplicates%20from%20Sorted%20List/83.cpp)|[Note](83.Remove%20Duplicates%20from%20Sorted%20List/README.md)|Easy|链表|
 |152|[连续子数组的最大积](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](152.Maximum%20Product%20Subarray/152.cpp)|[Note](152.Maximum%20Product%20Subarray/README.md)|Medium|动态规划|
 |160|[两个链表的相交节点](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C++](160.Intersection%20of%20Two%20Linked%20Lists/160.cpp)|[Note](160.Intersection%20of%20Two%20Linked%20Lists/README.md)|Easy|链表|
