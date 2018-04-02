@@ -13,8 +13,8 @@ Leetcode solutions in C++ 11
 |28|[实现子串查找函数strStr()](https://leetcode.com/problems/implement-strstr/description/)|[C++](28.Implement%20strStr/28.cpp)|[Note](28.Implement%20strStr/README.md)|Easy|字符串|
 |29|[不用乘除取模实现整数除法](https://leetcode.com/problems/divide-two-integers/description/)|[C++](29.Divide%20Two%20Integers/29.cpp)|[Note](29.Divide%20Two%20Integers/README.md)|Medium|条件限制|
 |31|[数组元素序列中按字典序的下一个序列](https://leetcode.com/problems/next-permutation/description/)|[C++](31.Next%20Permutation/31.cpp)|[Note](31.Next%20Permutation/README.md)|Medium|数组|
-|33|[有序数组旋转后的查找](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[C++](33.Search%20in%20Rotated%20Sorted%20Array/33.cpp)|[Note](33.Search%20in%20Rotated%20Sorted%20Array/README.md)|Medium|查找|
-|34|[有序数组中查找数字的范围](https://leetcode.com/problems/search-for-a-range/description/)|[C++](34.Search%20for%20a%20Range/34.cpp)|[Note](34.Search%20for%20a%20Range/README.md)|Medium|查找|
+|33|[有序数组旋转后的查找](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[C++](33.Search%20in%20Rotated%20Sorted%20Array/33.cpp)|[Note](33.Search%20in%20Rotated%20Sorted%20Array/README.md)|Medium|二分查找|
+|34|[有序数组中查找数字的范围](https://leetcode.com/problems/search-for-a-range/description/)|[C++](34.Search%20for%20a%20Range/34.cpp)|[Note](34.Search%20for%20a%20Range/README.md)|Medium|二分查找|
 |36|[有效数独](https://leetcode.com/problems/valid-sudoku/description/)|[C++](36.Valid%20Sudoku/36.cpp)|[Note](36.Valid%20Sudoku/README.md)|Medium|数组|
 |39|[和为target的数字组合(I)](https://leetcode.com/problems/combination-sum/description/)|[C++](39.Combination%20Sum/39.cpp)|[Note](39.Combination%20Sum/README.md)|Medium|数组|
 |40|[和为target的数字组合(II)](https://leetcode.com/problems/combination-sum-ii/description/)|[C++](40.Combination%20Sum%20II/40.cpp)|[Note](40.Combination%20Sum%20II/README.md)|Medium|数组|
