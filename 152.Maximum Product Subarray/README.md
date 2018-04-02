@@ -28,4 +28,4 @@
 * 当前maxLocal = max(前一maxLocal\*num , 前一minLocal\*num , num)
 * 当前minLocal = min(前一maxLocal\*num , 前一minLocal\*num , num)
 
-所以考虑1）能否也使用2）这种表达式，由于数组不包含0，单独的一个元素不可能成为最小值或最大值，所有将num也作为比较并不影响结果
+所以考虑1）能否也使用2）这种表达式，由于数组不包含0时，单独的一个元素不可能成为最小值或最大值，所有将num也作为比较并不影响结果
