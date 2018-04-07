@@ -19,7 +19,8 @@ Leetcode solutions in C++ 11
 |39|[和为target的数字组合(I)](https://leetcode.com/problems/combination-sum/description/)|[C++](39.Combination%20Sum/39.cpp)|[Note](39.Combination%20Sum/README.md)|Medium|数组|
 |40|[和为target的数字组合(II)](https://leetcode.com/problems/combination-sum-ii/description/)|[C++](40.Combination%20Sum%20II/40.cpp)|[Note](40.Combination%20Sum%20II/README.md)|Medium|数组|
 |41|[第一个缺失的正数](https://leetcode.com/problems/first-missing-positive/discuss/)|[C++](41.First%20Missing%20Positive/41.cpp)|[Note](41.First%20Missing%20Positive/README.md)|Hard|查找|
-|46|[整形数组的全排列](https://leetcode.com/problems/permutations/description/)|[C++](46.Permutations/46.cpp)|[Note](46.Permutations/README.md)|Medium|全排列|
+|46|[(不含相同元素的)整形数组的全排列](https://leetcode.com/problems/permutations/description/)|[C++](46.Permutations/46.cpp)|[Note](46.Permutations/README.md)|Medium|全排列|
+|47|[(含相同元素的)整形数组的全排列](https://leetcode.com/problems/permutations-ii/description/)|[C++](47.Permutations%20II/47.cpp)|[Note](47.Permutations%20II/README.md)|Medium|全排列|
 |83|[删除有序链表的冗余节点](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C++](83.Remove%20Duplicates%20from%20Sorted%20List/83.cpp)|[Note](83.Remove%20Duplicates%20from%20Sorted%20List/README.md)|Easy|链表|
 |152|[连续子数组的最大积](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](152.Maximum%20Product%20Subarray/152.cpp)|[Note](152.Maximum%20Product%20Subarray/README.md)|Medium|动态规划|
 |160|[两个链表的相交节点](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C++](160.Intersection%20of%20Two%20Linked%20Lists/160.cpp)|[Note](160.Intersection%20of%20Two%20Linked%20Lists/README.md)|Easy|链表|
