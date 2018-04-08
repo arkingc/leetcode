@@ -22,6 +22,7 @@ Leetcode solutions in C++ 11
 |46|[(不含相同元素的)整形数组的全排列](https://leetcode.com/problems/permutations/description/)|[C++](46.Permutations/46.cpp)|[Note](46.Permutations/README.md)|Medium|全排列|
 |47|[(含相同元素的)整形数组的全排列](https://leetcode.com/problems/permutations-ii/description/)|[C++](47.Permutations%20II/47.cpp)|[Note](47.Permutations%20II/README.md)|Medium|全排列|
 |48|[90度旋转图片](https://leetcode.com/problems/rotate-image/description/)|[C++](48.Rotate%20Image/48.cpp)|[Note](48.Rotate%20Image/README.md)|Medium|数组|
+|49|[将字符颠倒的字符串分组](https://leetcode.com/problems/group-anagrams/solution/)|[C++](49.Group%20Anagrams/49.cpp)|[Note](49.Group%20Anagrams/README.md)|Medium|字符串|
 |83|[删除有序链表的冗余节点](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C++](83.Remove%20Duplicates%20from%20Sorted%20List/83.cpp)|[Note](83.Remove%20Duplicates%20from%20Sorted%20List/README.md)|Easy|链表|
 |152|[连续子数组的最大积](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](152.Maximum%20Product%20Subarray/152.cpp)|[Note](152.Maximum%20Product%20Subarray/README.md)|Medium|动态规划|
 |160|[两个链表的相交节点](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C++](160.Intersection%20of%20Two%20Linked%20Lists/160.cpp)|[Note](160.Intersection%20of%20Two%20Linked%20Lists/README.md)|Easy|链表|
