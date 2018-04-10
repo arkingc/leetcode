@@ -27,7 +27,7 @@ Leetcode solutions in C++ 11
 |54|[顺时针打印矩阵](https://leetcode.com/problems/spiral-matrix/description/)|[C++](54.Spiral%20Matrix/54.cpp)|[Note](54.Spiral%20Matrix/README.md)|Medium|数组|
 |55|[跳步游戏](https://leetcode.com/problems/jump-game/description/)|[C++](55.Jump%20Game/55.cpp)|[Note](55.Jump%20Game/README.md)|Medium|贪心|
 |**56**|[区间合并](https://leetcode.com/problems/merge-intervals/description/)|[C++](56.Merge%20Intervals/56.cpp)|[Note](56.Merge%20Intervals/README.md)|Medium|排序|
-|**62**|[左上角到右下角的路径数](https://leetcode.com/problems/unique-paths/description/)|[C++](62.Unique%20Paths/62.cpp)|[Note](62.Unique%20Paths/README.md)|Medium|动态规划|
+|62|[左上角到右下角的路径数](https://leetcode.com/problems/unique-paths/description/)|[C++](62.Unique%20Paths/62.cpp)|[Note](62.Unique%20Paths/README.md)|Medium|动态规划|
 |83|[删除有序链表的冗余节点](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C++](83.Remove%20Duplicates%20from%20Sorted%20List/83.cpp)|[Note](83.Remove%20Duplicates%20from%20Sorted%20List/README.md)|Easy|链表|
 |152|[连续子数组的最大积](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](152.Maximum%20Product%20Subarray/152.cpp)|[Note](152.Maximum%20Product%20Subarray/README.md)|Medium|动态规划|
 |160|[两个链表的相交节点](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C++](160.Intersection%20of%20Two%20Linked%20Lists/160.cpp)|[Note](160.Intersection%20of%20Two%20Linked%20Lists/README.md)|Easy|链表|
