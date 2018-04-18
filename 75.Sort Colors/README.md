@@ -7,4 +7,4 @@
 
 ### 方法二
 
-![一次遍历](https://leetcode.com/problems/sort-colors/discuss/26474/Sharing-C++-solution-with-Good-Explanation)
+[一次遍历](https://leetcode.com/problems/sort-colors/discuss/26474/Sharing-C++-solution-with-Good-Explanation)
