@@ -34,6 +34,7 @@ Leetcode solutions in C++ 11
 |79|[字符矩阵中查找字符串](https://leetcode.com/problems/word-search/description/)|[C++](79.Word%20Search/79.cpp)|[Note](79.Word%20Search/README.md)|Medium|数组 \| 回溯|
 |83|[删除有序链表的冗余节点](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C++](83.Remove%20Duplicates%20from%20Sorted%20List/83.cpp)|[Note](83.Remove%20Duplicates%20from%20Sorted%20List/README.md)|Easy|链表|
 |91|[数字字符串的解码方式](https://leetcode.com/problems/decode-ways/description/)|[C++](91.Decode%20Ways/91.cpp)|[Note](91.Decode%20Ways/README.md)|Medium|字符串 \| 动态规划|
+|94|[输出二叉树的中序遍历序列](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|[C++](94.Binary%20Tree%20Inorder%20Traversal/94.cpp)|Note|Medium|二叉树|
 |**152**|[连续子数组的最大积](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](152.Maximum%20Product%20Subarray/152.cpp)|[Note](152.Maximum%20Product%20Subarray/README.md)|Medium|动态规划|
 |160|[两个链表的相交节点](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C++](160.Intersection%20of%20Two%20Linked%20Lists/160.cpp)|[Note](160.Intersection%20of%20Two%20Linked%20Lists/README.md)|Easy|链表|
 |203|[删除链表中等于给定值的所有节点](https://leetcode.com/problems/remove-linked-list-elements/description/)|[C++](203.Remove%20Linked%20List%20Elements/203.cpp)|[Note](203.Remove%20Linked%20List%20Elements/README.md)|Easy|链表|
