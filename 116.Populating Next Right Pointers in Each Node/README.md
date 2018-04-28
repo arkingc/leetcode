@@ -39,7 +39,7 @@ node->left->next = node->right;
 node->right->next = node->next-left;
 ```
 
-***所以在前序遍历过程中，每遍历到一个节点时，要处理2个链接**：
+**所以在前序遍历过程中，每遍历到一个节点时，要处理2个链接**：
 
 ```c++
 node->left->next = node->right;
