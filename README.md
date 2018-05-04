@@ -5,6 +5,7 @@ Leetcode solutions in C++ 11
 
 |NO.|Title|Solution|Note|Difficulty|Tag|
 |---|-----|--------|----|----------|---|
+|3|[字符串中不含重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[C++](3.Longest%20Substring%20Without%20Repeating%20Characters/3.cpp)|[Note](3.Longest%20Substring%20Without%20Repeating%20Characters/README.md)|Medium|字符串|
 |17|[电话号码的字符组合](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[C++](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/8097/My-iterative-sollution-very-simple-under-15-lines)|[Note](17.Letter%20Combinations%20of%20a%20Phone%20Number/README.md)|Medium|字符串|
 |21|[合并两个有序链表](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[C++](21.Merge%20Two%20Sorted%20Lists/21.cpp)|[Note](21.Merge%20Two%20Sorted%20Lists/README.md)|Easy|链表|
 |22|[n对括号的所有有效形式](https://leetcode.com/problems/generate-parentheses/description/)|[C++](22.Generate%20Parentheses/22.cpp)|[Note](22.Generate%20Parentheses/README.md)|Medium|回溯|
