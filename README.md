@@ -43,6 +43,7 @@ Leetcode solutions in C++ 11
 |**116**|[将二叉树的每一层串成链表](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)|[C++](116.Populating%20Next%20Right%20Pointers%20in%20Each%20Node/116.cpp)|[Note](116.Populating%20Next%20Right%20Pointers%20in%20Each%20Node/README.md)|Medium|二叉树|
 |**127**|[单词阶梯](https://leetcode.com/problems/word-ladder/description/)|[C++](127.Word%20Ladder/127.cpp)|[Note](127.Word%20Ladder/README.md)|Medium|图 \| BFS|
 |**130**|[被包围的区域](https://leetcode.com/problems/surrounded-regions/description/)|[C++](130.Surrounded%20Regions/130.cpp)|[Note](130.Surrounded%20Regions/README.md)|Medium|图 \| DFS|
+|**131**|[字符串所有子串都是回文的分区](https://leetcode.com/problems/palindrome-partitioning/description/)|[C++](131.Palindrome%20Partitioning/131.cpp)|[Note](131.Palindrome%20Partitioning/README.md)|Medium|字符串 \| DFS|
 |**152**|[连续子数组的最大积](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](152.Maximum%20Product%20Subarray/152.cpp)|[Note](152.Maximum%20Product%20Subarray/README.md)|Medium|动态规划|
 |160|[两个链表的相交节点](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C++](160.Intersection%20of%20Two%20Linked%20Lists/160.cpp)|[Note](160.Intersection%20of%20Two%20Linked%20Lists/README.md)|Easy|链表|
 |203|[删除链表中等于给定值的所有节点](https://leetcode.com/problems/remove-linked-list-elements/description/)|[C++](203.Remove%20Linked%20List%20Elements/203.cpp)|[Note](203.Remove%20Linked%20List%20Elements/README.md)|Easy|链表|
