@@ -5,8 +5,8 @@ public:
         vector<int> indegrees(numCourses,0);    //顶点的入度，即有多少边指向该顶点
         
         for(auto p : prerequisites){
-            indegrees[p.second]++;
-            graph[p.first].push_back(p.second);
+            indegrees[p.first]++;
+            graph[p.second].push_back(p.first);
         }
         
         deque<int> q;
