@@ -66,4 +66,5 @@ Leetcode solutions in C++ 11
 |230|[BST中第K小的元素](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[C++](230.Kth%20Smallest%20Element%20in%20a%20BST/230.cpp)|[Note](230.Kth%20Smallest%20Element%20in%20a%20BST/README.md)|Medium|BST|
 |236|[二叉树的最低公共祖先](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)|[C++](236.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236.cpp)|[Note](236.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/README.md)|Medium|二叉树|
 |238|[除自身外的乘积数组](https://leetcode.com/problems/product-of-array-except-self/description/)|[C++](238.Product%20of%20Array%20Except%20Self/238.cpp)|[Note](238.Product%20of%20Array%20Except%20Self/README.md)|Medium|数组|
+|240|[二维矩阵中查找元素](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[C++](240.Search%20a%202D%20Matrix%20II/240.cpp)|[Note](240.Search%20a%202D%20Matrix%20II/README.md)|Medium|数组|
 |695|[岛屿的最大面积](https://leetcode.com/problems/max-area-of-island/description/)|[C++](695.Max%20Area%20of%20Island/695.cpp)|[Note](695.Max%20Area%20of%20Island/README.md)|Easy|图|
