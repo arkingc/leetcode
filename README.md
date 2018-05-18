@@ -70,5 +70,5 @@ Leetcode solutions in C++ 11
 |**279**|[完美平方数](https://leetcode.com/problems/perfect-squares/description/)|[C++](279.Perfect%20Squares/279.cpp)|[Note](279.Perfect%20Squares/README.md)|Medium|动态规划|
 |**287**|[找出数组中的冗余数字](https://leetcode.com/problems/find-the-duplicate-number/description/)|[C++](287.Find%20the%20Duplicate%20Number/287.cpp)|[Note](287.Find%20the%20Duplicate%20Number/README.md)|Medium|数组 \| 二分查找|
 |**289**|[细胞自动机的下一个状态](https://leetcode-cn.com/problems/game-of-life/description/)|[C++](289.Game%20of%20Life/289.cpp)|[Note](289.Game%20of%20Life/README.md)|Medium|数组|
-|**300**|[数组的最长升序序列](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[C++](300.Longest%20Increasing%20Subsequence)|[Note](300.Longest%20Increasing%20Subsequence/README.md)|Medium|数组|
+|**300**|[数组的最长升序序列](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[C++](300.Longest%20Increasing%20Subsequence/300.cpp)|[Note](300.Longest%20Increasing%20Subsequence/README.md)|Medium|数组|
 |695|[岛屿的最大面积](https://leetcode.com/problems/max-area-of-island/description/)|[C++](695.Max%20Area%20of%20Island/695.cpp)|[Note](695.Max%20Area%20of%20Island/README.md)|Easy|图|
