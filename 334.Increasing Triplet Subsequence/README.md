@@ -2,7 +2,7 @@
 
 判断整形数组中是否存在三元升序子序列
 
-> 这个题和[最长升序子序列](https://leetcode.com/problems/longest-increasing-subsequence/description/)一样，都是整形数组中的升序子序列的问题
+> 这个题和[最长升序子序列](https://leetcode.com/problems/longest-increasing-subsequence/description/)一样，都是整形数组中的升序子序列的问题。可以扩展为判断整形数组中是否存在n元升序子序列
 
 ## 解答
 
