@@ -132,3 +132,5 @@ public:
     }
 };
 ```
+
+[参考](https://leetcode.com/problems/wiggle-sort-ii/discuss/77682/step-by-step-explanation-of-index-mapping-in-java)
