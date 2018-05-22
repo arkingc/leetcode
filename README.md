@@ -76,4 +76,5 @@ Leetcode solutions in C++ 11
 |328|[将链表偶数位置的节点移到尾部](https://leetcode.com/problems/odd-even-linked-list/description/)|[C++](328.Odd%20Even%20Linked%20List/328.cpp)|[Note](328.Odd%20Even%20Linked%20List/README.md)|Medium|链表|
 |**334**|[数组的三元升序子序列](https://leetcode.com/problems/increasing-triplet-subsequence/description/)|[C++](334.Increasing%20Triplet%20Subsequence/334.cpp)|[Note](334.Increasing%20Triplet%20Subsequence/README.md)|Medium|数组|
 |**341**|[扁平化嵌套列表迭代器](https://leetcode.com/problems/flatten-nested-list-iterator/description/)|[C++](341.Flatten%20Nested%20List%20Iterator/341.cpp)|[Note](341.Flatten%20Nested%20List%20Iterator/README.md)|Medium|类设计 \| 栈|
+|**347**|[出现频率最高的k个元素](https://leetcode.com/problems/top-k-frequent-elements/description/)|[C++](347.Top%20K%20Frequent%20Elements/347.cpp)|[Note](347.Top%20K%20Frequent%20Elements/README.md)|Medium|数组|
 |695|[岛屿的最大面积](https://leetcode.com/problems/max-area-of-island/description/)|[C++](695.Max%20Area%20of%20Island/695.cpp)|[Note](695.Max%20Area%20of%20Island/README.md)|Easy|图|
