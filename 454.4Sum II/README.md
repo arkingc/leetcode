@@ -110,7 +110,7 @@ public:
 
 ### 4）空间换时间3
 
-观察发现，上面使用的是set，在技术时调用了count函数，这个函数还是会遍历相同的元素，因此存在一定开销。可以将set换成map，key为num1+num2的值，value为相同key的排列数。所以避免了调用count
+观察发现，上面使用的是set，在计数时调用了count函数，这个函数还是会遍历相同的元素，因此存在一定开销。可以将set换成map，key为num1+num2的值，value为相同key的排列数。所以避免了调用count
 
 ```c++
 class Solution {
