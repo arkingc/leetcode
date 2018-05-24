@@ -80,5 +80,6 @@ Leetcode solutions in C++ 11
 |**378**|[有序矩阵中第K小的元素](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)|[C++](378.Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/378.cpp)|[Note](378.Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/README.md)|Medium|数组 \| 二分查找|
 |380|[实现O(1)的插入删除与随机获取](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)|[C++](380.Insert%20Delete%20GetRandom%20O(1)/380.cpp)|Note|Medium|类设计|
 |384|[打乱数组](https://leetcode.com/problems/shuffle-an-array/description/)|[C++](384.Shuffle%20an%20Array/384.cpp)|[Note](384.Shuffle%20an%20Array/README.md)|Medium|数组 \| 洗牌算法|
+|**395**|[至少有K个重复字符的最长子串](https://leetcode.com/problems/shuffle-an-array/description/)|[C++](395.Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/395.cpp)|[Note](395.Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/README.md)|Medium|字符串|
 |454|[四数相加II](https://leetcode.com/problems/4sum-ii/description/)|[C++](454.4Sum%20II/454.cpp)|[Note](454.4Sum%20II/README.md)|Medium|数组 \| 哈希表|
 |695|[岛屿的最大面积](https://leetcode.com/problems/max-area-of-island/description/)|[C++](695.Max%20Area%20of%20Island/695.cpp)|[Note](695.Max%20Area%20of%20Island/README.md)|Easy|图|
