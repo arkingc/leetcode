@@ -10,6 +10,7 @@ Leetcode solutions in C++ 11
 |17|[电话号码的字符组合](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[C++](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/8097/My-iterative-sollution-very-simple-under-15-lines)|[Note](17.Letter%20Combinations%20of%20a%20Phone%20Number/README.md)|Medium|字符串|
 |21|[合并两个有序链表](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[C++](21.Merge%20Two%20Sorted%20Lists/21.cpp)|[Note](21.Merge%20Two%20Sorted%20Lists/README.md)|Easy|链表|
 |22|[n对括号的所有有效形式](https://leetcode.com/problems/generate-parentheses/description/)|[C++](22.Generate%20Parentheses/22.cpp)|[Note](22.Generate%20Parentheses/README.md)|Medium|回溯|
+|**23**|[合并K个有序链表](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[C++](23.Merge%20k%20Sorted%20Lists/23.cpp)|[Note](23.Merge%20k%20Sorted%20Lists/README.md)|Hard|链表 \| 多路归并|
 |24|[成对交换链表中的节点](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[C++](24.Swap%20Nodes%20in%20Pairs/24.cpp)|[Note](24.Swap%20Nodes%20in%20Pairs/README.md)|Medium|链表|
 |26|[删除有序数组中的冗余元素](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[C++](26.Remove%20Duplicates%20from%20Sorted%20Array/26.cpp)|[Note](26.Remove%20Duplicates%20from%20Sorted%20Array/README.md)|Easy|数组|
 |28|[实现子串查找函数strStr()](https://leetcode.com/problems/implement-strstr/description/)|[C++](28.Implement%20strStr/28.cpp)|[Note](28.Implement%20strStr/README.md)|Easy|字符串|
