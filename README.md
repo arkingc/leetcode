@@ -8,7 +8,7 @@ Leetcode solutions in C++ 11
 |3|[字符串中不含重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[C++](3.Longest%20Substring%20Without%20Repeating%20Characters/3.cpp)|[Note](3.Longest%20Substring%20Without%20Repeating%20Characters/README.md)|Medium|字符串|
 |**4**|[两个排序数组的中值](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[C++](4.Median%20of%20Two%20Sorted%20Arrays/4.cpp)|[Note](4.Median%20of%20Two%20Sorted%20Arrays/README.md)|Hard|数组 \| 二分查找|
 |17|[电话号码的字符组合](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[C++](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/8097/My-iterative-sollution-very-simple-under-15-lines)|[Note](17.Letter%20Combinations%20of%20a%20Phone%20Number/README.md)|Medium|字符串|
-|20|[有效的括号](https://leetcode.com/problems/valid-parentheses/description/)|[C++](20.Valid%20Parentheses/20.cpp)|[Note](20.Valid%20Parentheses/README.md)|有效的括号|字符串 \| 栈|
+|20|[有效的括号](https://leetcode.com/problems/valid-parentheses/description/)|[C++](20.Valid%20Parentheses/20.cpp)|[Note](20.Valid%20Parentheses/README.md)|Easy|字符串 \| 栈|
 |21|[合并两个有序链表](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[C++](21.Merge%20Two%20Sorted%20Lists/21.cpp)|[Note](21.Merge%20Two%20Sorted%20Lists/README.md)|Easy|链表|
 |22|[n对括号的所有有效形式](https://leetcode.com/problems/generate-parentheses/description/)|[C++](22.Generate%20Parentheses/22.cpp)|[Note](22.Generate%20Parentheses/README.md)|Medium|回溯|
 |**23**|[合并K个有序链表](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[C++](23.Merge%20k%20Sorted%20Lists/23.cpp)|[Note](23.Merge%20k%20Sorted%20Lists/README.md)|Hard|链表 \| 多路归并|
@@ -20,6 +20,7 @@ Leetcode solutions in C++ 11
 |33|[有序数组旋转后的查找](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[C++](33.Search%20in%20Rotated%20Sorted%20Array/33.cpp)|[Note](33.Search%20in%20Rotated%20Sorted%20Array/README.md)|Medium|二分查找|
 |34|[有序数组中查找数字的范围](https://leetcode.com/problems/search-for-a-range/description/)|[C++](34.Search%20for%20a%20Range/34.cpp)|[Note](34.Search%20for%20a%20Range/README.md)|Medium|二分查找|
 |36|[有效数独](https://leetcode.com/problems/valid-sudoku/description/)|[C++](36.Valid%20Sudoku/36.cpp)|[Note](36.Valid%20Sudoku/README.md)|Medium|数组|
+|38|[报数](https://leetcode.com/problems/count-and-say/description/)|[C++](38.Count%20and%20Say/38.cpp)|[Note](38.Count%20and%20Say/README.md)|Hard|字符串|
 |39|[和为target的数字组合(I)](https://leetcode.com/problems/combination-sum/description/)|[C++](39.Combination%20Sum/39.cpp)|[Note](39.Combination%20Sum/README.md)|Medium|数组|
 |40|[和为target的数字组合(II)](https://leetcode.com/problems/combination-sum-ii/description/)|[C++](40.Combination%20Sum%20II/40.cpp)|[Note](40.Combination%20Sum%20II/README.md)|Medium|数组|
 |41|[第一个缺失的正数](https://leetcode.com/problems/first-missing-positive/discuss/)|[C++](41.First%20Missing%20Positive/41.cpp)|[Note](41.First%20Missing%20Positive/README.md)|Hard|查找|
