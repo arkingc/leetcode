@@ -23,7 +23,8 @@ Leetcode solutions in C++ 11
 |38|[报数](https://leetcode.com/problems/count-and-say/description/)|[C++](38.Count%20and%20Say/38.cpp)|[Note](38.Count%20and%20Say/README.md)|Easy|字符串|
 |39|[和为target的数字组合(I)](https://leetcode.com/problems/combination-sum/description/)|[C++](39.Combination%20Sum/39.cpp)|[Note](39.Combination%20Sum/README.md)|Medium|数组|
 |40|[和为target的数字组合(II)](https://leetcode.com/problems/combination-sum-ii/description/)|[C++](40.Combination%20Sum%20II/40.cpp)|[Note](40.Combination%20Sum%20II/README.md)|Medium|数组|
-|41|[第一个缺失的正数](https://leetcode.com/problems/first-missing-positive/discuss/)|[C++](41.First%20Missing%20Positive/41.cpp)|[Note](41.First%20Missing%20Positive/README.md)|Hard|查找|
+|**41**|[第一个缺失的正数](https://leetcode.com/problems/first-missing-positive/discuss/)|[C++](41.First%20Missing%20Positive/41.cpp)|[Note](41.First%20Missing%20Positive/README.md)|Hard|查找|
+|**42**|[接雨水](https://leetcode.com/problems/trapping-rain-water/solution/)|[C++](42.Trapping%20Rain%20Water/42.cpp)|[Note](42.Trapping%20Rain%20Water/README.md)|Hard|数组|
 |46|[(不含相同元素的)整形数组的全排列](https://leetcode.com/problems/permutations/description/)|[C++](46.Permutations/46.cpp)|[Note](46.Permutations/README.md)|Medium|全排列|
 |47|[(含相同元素的)整形数组的全排列](https://leetcode.com/problems/permutations-ii/description/)|[C++](47.Permutations%20II/47.cpp)|[Note](47.Permutations%20II/README.md)|Medium|全排列|
 |48|[90度旋转图片](https://leetcode.com/problems/rotate-image/description/)|[C++](48.Rotate%20Image/48.cpp)|[Note](48.Rotate%20Image/README.md)|Medium|数组|
