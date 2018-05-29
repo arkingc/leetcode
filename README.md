@@ -36,6 +36,7 @@ Leetcode solutions in C++ 11
 |**56**|[区间合并](https://leetcode.com/problems/merge-intervals/description/)|[C++](56.Merge%20Intervals/56.cpp)|[Note](56.Merge%20Intervals/README.md)|Medium|排序|
 |62|[左上角到右下角的路径数](https://leetcode.com/problems/unique-paths/description/)|[C++](62.Unique%20Paths/62.cpp)|[Note](62.Unique%20Paths/README.md)|Medium|动态规划|
 |**73**|[设置矩阵中的0](https://leetcode.com/problems/set-matrix-zeroes/description/)|[C++](73.Set%20Matrix%20Zeroes/73.cpp)|[Note](73.Set%20Matrix%20Zeroes/README.md)|Medium|数组|
+|**76**|[最小覆盖子串](https://leetcode.com/problems/minimum-window-substring/description/)|[C++](76.Minimum%20Window%20Substring/76.cpp)|[Note](76.Minimum%20Window%20Substring/README.md)|Medium|数组 \| 滑动窗口 \| 两指针|
 |75|[排序数组中的0、1、2](https://leetcode.com/problems/sort-colors/description/)|[C++](75.Sort%20Colors/75.cpp)|[Note](75.Sort%20Colors/README.md)|Medium|数组|
 |78|[不含重复元素集合的所有子集](https://leetcode.com/problems/subsets/description/)|[C++](78.Subsets/78.cpp)|[Note](78.Subsets/README.md)|Medium|数组|
 |79|[字符矩阵中查找字符串](https://leetcode.com/problems/word-search/description/)|[C++](79.Word%20Search/79.cpp)|[Note](79.Word%20Search/README.md)|Medium|数组 \| 回溯|
