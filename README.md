@@ -37,6 +37,7 @@ Leetcode solutions in C++ 11
 |55|[跳步游戏](https://leetcode.com/problems/jump-game/description/)|[C++](55.Jump%20Game/55.cpp)|[Note](55.Jump%20Game/README.md)|Medium|贪心|
 |**56**|[区间合并](https://leetcode.com/problems/merge-intervals/description/)|[C++](56.Merge%20Intervals/56.cpp)|[Note](56.Merge%20Intervals/README.md)|Medium|排序|
 |62|[左上角到右下角的路径数](https://leetcode.com/problems/unique-paths/description/)|[C++](62.Unique%20Paths/62.cpp)|[Note](62.Unique%20Paths/README.md)|Medium|动态规划|
+|66|[数组表示的数字加1](https://leetcode.com/problems/plus-one/description/)|[C++](66.Plus%20One/66.cpp)|[Note](66.Plus%20One/README.md)|Easy|数组|
 |**73**|[设置矩阵中的0](https://leetcode.com/problems/set-matrix-zeroes/description/)|[C++](73.Set%20Matrix%20Zeroes/73.cpp)|[Note](73.Set%20Matrix%20Zeroes/README.md)|Medium|数组|
 |**76**|[最小覆盖子串](https://leetcode.com/problems/minimum-window-substring/description/)|[C++](76.Minimum%20Window%20Substring/76.cpp)|[Note](76.Minimum%20Window%20Substring/README.md)|Hard|数组 \| 滑动窗口 \| 双指针|
 |75|[排序数组中的0、1、2](https://leetcode.com/problems/sort-colors/description/)|[C++](75.Sort%20Colors/75.cpp)|[Note](75.Sort%20Colors/README.md)|Medium|数组|
