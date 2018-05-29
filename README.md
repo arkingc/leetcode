@@ -32,6 +32,7 @@ Leetcode solutions in C++ 11
 |48|[90度旋转图片](https://leetcode.com/problems/rotate-image/description/)|[C++](48.Rotate%20Image/48.cpp)|[Note](48.Rotate%20Image/README.md)|Medium|数组|
 |49|[将字符颠倒的字符串分组](https://leetcode.com/problems/group-anagrams/description/)|[C++](49.Group%20Anagrams/49.cpp)|[Note](49.Group%20Anagrams/README.md)|Medium|字符串|
 |50|[实现Pow(x,n)](https://leetcode.com/problems/powx-n/description/)|[C++](50.Pow\(x,n\)/50.cpp)|[Note](50.Pow\(x,n\)/README.md)|Medium|数学|
+|53|[和最大的连续子数组](https://leetcode.com/problems/maximum-subarray/description/)|[C++](53.Maximum%20Subarray/53.cpp)|[Note](53.Maximum%20Subarray/README.md)|Easy|数组|
 |54|[顺时针打印矩阵](https://leetcode.com/problems/spiral-matrix/description/)|[C++](54.Spiral%20Matrix/54.cpp)|[Note](54.Spiral%20Matrix/README.md)|Medium|数组|
 |55|[跳步游戏](https://leetcode.com/problems/jump-game/description/)|[C++](55.Jump%20Game/55.cpp)|[Note](55.Jump%20Game/README.md)|Medium|贪心|
 |**56**|[区间合并](https://leetcode.com/problems/merge-intervals/description/)|[C++](56.Merge%20Intervals/56.cpp)|[Note](56.Merge%20Intervals/README.md)|Medium|排序|
