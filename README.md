@@ -39,6 +39,7 @@ Leetcode solutions in C++ 11
 |62|[左上角到右下角的路径数](https://leetcode.com/problems/unique-paths/description/)|[C++](62.Unique%20Paths/62.cpp)|[Note](62.Unique%20Paths/README.md)|Medium|动态规划|
 |66|[数组表示的数字加1](https://leetcode.com/problems/plus-one/description/)|[C++](66.Plus%20One/66.cpp)|[Note](66.Plus%20One/README.md)|Easy|数组|
 |**69**|[x的平方根](https://leetcode.com/problems/sqrtx/description/)|[C++](69.Sqrtx/69.cpp)|[Note](69.Sqrtx/README.md)|Easy|数学 \| 二分查找 \| 鲁棒性|
+|70|[爬楼梯](https://leetcode.com/problems/climbing-stairs/description/)|[C++](70.Climbing%20Stairs/70.cpp)|[Note](70.Climbing%20Stairs/README.md)|Easy|数组 \| 动态规划|
 |**73**|[设置矩阵中的0](https://leetcode.com/problems/set-matrix-zeroes/description/)|[C++](73.Set%20Matrix%20Zeroes/73.cpp)|[Note](73.Set%20Matrix%20Zeroes/README.md)|Medium|数组|
 |**76**|[最小覆盖子串](https://leetcode.com/problems/minimum-window-substring/description/)|[C++](76.Minimum%20Window%20Substring/76.cpp)|[Note](76.Minimum%20Window%20Substring/README.md)|Hard|数组 \| 滑动窗口 \| 双指针|
 |75|[排序数组中的0、1、2](https://leetcode.com/problems/sort-colors/description/)|[C++](75.Sort%20Colors/75.cpp)|[Note](75.Sort%20Colors/README.md)|Medium|数组|
@@ -46,6 +47,7 @@ Leetcode solutions in C++ 11
 |79|[字符矩阵中查找字符串](https://leetcode.com/problems/word-search/description/)|[C++](79.Word%20Search/79.cpp)|[Note](79.Word%20Search/README.md)|Medium|数组 \| 回溯|
 |83|[删除有序链表的冗余节点](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C++](83.Remove%20Duplicates%20from%20Sorted%20List/83.cpp)|[Note](83.Remove%20Duplicates%20from%20Sorted%20List/README.md)|Easy|链表|
 |**84**|[柱状图中最大的矩形](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|[C++](84.Largest%20Rectangle%20in%20Histogram/84.cpp)|[Note](84.Largest%20Rectangle%20in%20Histogram/README.md)|Hard|数组 \| 栈|
+|88|[合并两个有序数组](https://leetcode.com/problems/merge-sorted-array/description/)|[C++](88.Merge%20Sorted%20Array/88.cpp)|[Note](88.Merge%20Sorted%20Array/README.md)|Easy|数组|
 |91|[数字字符串的解码方式](https://leetcode.com/problems/decode-ways/description/)|[C++](91.Decode%20Ways/91.cpp)|[Note](91.Decode%20Ways/README.md)|Medium|字符串 \| 动态规划|
 |94|[输出二叉树的中序遍历序列](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|[C++](94.Binary%20Tree%20Inorder%20Traversal/94.cpp)|Note|Medium|二叉树|
 |98|[判断一棵二叉树是否是BST](https://leetcode.com/problems/validate-binary-search-tree/description/)|[C++](98.Validate%20Binary%20Search%20Tree/98.cpp)|[Note](98.Validate%20Binary%20Search%20Tree/README.md)|Medium|二叉树 \| BST|
