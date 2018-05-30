@@ -63,7 +63,8 @@ Leetcode solutions in C++ 11
 |**134**|[加油站](https://leetcode.com/problems/gas-station/description/)|[C++](134.Gas%20Station/134.cpp)|[Note](http://www.cnblogs.com/boring09/p/4248482.html)|Medium|数组 \| 贪心|
 |137|[找出只出现1次的数字(其余都出现3次)](https://leetcode.com/problems/single-number-ii/description/)|[C++](137.Single%20Number%20II/137.cpp)|[Note](137.Single%20Number%20II/README.md)|Medium|数组 \| 位运算|
 |138|[带随机指针的链表复制](https://leetcode.com/problems/copy-list-with-random-pointer/description/)|[C++](138.Copy%20List%20with%20Random%20Pointer/138.cpp)|[Note](138.Copy%20List%20with%20Random%20Pointer/README.md)|Medium|链表|
-|139|[判断字符串能否由字典中的单词构成](https://leetcode.com/problems/word-break/description/)|[C++](139.Word%20Break/139.cpp)|[Note](139.Word%20Break/README.md)|Medium|字符串 \| 动态规划|
+|139|[单词拆分I](https://leetcode.com/problems/word-break/description/)|[C++](139.Word%20Break/139.cpp)|[Note](139.Word%20Break/README.md)|Medium|字符串 \| 动态规划|
+|**140**|[单词拆分II](https://leetcode.com/problems/word-break-ii/description/)|[C++](140.Word%20Break%20II/140.cpp)|[Note](140.Word%20Break%20II/README.md)|Hard|字符串 \| 动态规划|
 |**148**|[链表节点排序](https://leetcode.com/problems/sort-list/description/)|[C++](148.Sort%20List/148.cpp)|[Note](148.Sort%20List/README.md)|Medium|链表 \| 分治|
 |150|[逆波兰表达式求值](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)|[C++](150.Evaluate%20Reverse%20Polish%20Notation/150.cpp)|[Note](150.Evaluate%20Reverse%20Polish%20Notation/README.md)|Medium|数学 \| 栈|
 |**152**|[连续子数组的最大积](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](152.Maximum%20Product%20Subarray/152.cpp)|[Note](152.Maximum%20Product%20Subarray/README.md)|Medium|动态规划|
