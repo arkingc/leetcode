@@ -44,6 +44,7 @@ Leetcode solutions in C++ 11
 |78|[不含重复元素集合的所有子集](https://leetcode.com/problems/subsets/description/)|[C++](78.Subsets/78.cpp)|[Note](78.Subsets/README.md)|Medium|数组|
 |79|[字符矩阵中查找字符串](https://leetcode.com/problems/word-search/description/)|[C++](79.Word%20Search/79.cpp)|[Note](79.Word%20Search/README.md)|Medium|数组 \| 回溯|
 |83|[删除有序链表的冗余节点](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C++](83.Remove%20Duplicates%20from%20Sorted%20List/83.cpp)|[Note](83.Remove%20Duplicates%20from%20Sorted%20List/README.md)|Easy|链表|
+|**84**|[柱状图中最大的矩形](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|[C++](84.Largest%20Rectangle%20in%20Histogram/84.cpp)|[Note](84.Largest%20Rectangle%20in%20Histogram/README.md)|Hard|数组 \| 栈|
 |91|[数字字符串的解码方式](https://leetcode.com/problems/decode-ways/description/)|[C++](91.Decode%20Ways/91.cpp)|[Note](91.Decode%20Ways/README.md)|Medium|字符串 \| 动态规划|
 |94|[输出二叉树的中序遍历序列](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|[C++](94.Binary%20Tree%20Inorder%20Traversal/94.cpp)|Note|Medium|二叉树|
 |98|[判断一棵二叉树是否是BST](https://leetcode.com/problems/validate-binary-search-tree/description/)|[C++](98.Validate%20Binary%20Search%20Tree/98.cpp)|[Note](98.Validate%20Binary%20Search%20Tree/README.md)|Medium|二叉树 \| BST|
