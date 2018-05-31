@@ -63,6 +63,7 @@ Leetcode solutions in C++ 11
 |121|[买卖股票的最佳时机](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[C++](121.Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.cpp)|[Note](121.Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md)|Easy|数组|
 |122|[买卖股票的最佳时机II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[C++](122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/122.cpp)|[Note](122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/README.md)|Easy|数组|
 |**124**|[二叉树的最大路径和](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)|[C++](124.Binary%20Tree%20Maximum%20Path%20Sum/124.cpp)|[Note](124.Binary%20Tree%20Maximum%20Path%20Sum/README.md)|Hard|二叉树|
+|**125**|[验证回文串](https://leetcode.com/problems/valid-palindrome/description/)|[C++](125.Valid%20Palindrome/125.cpp)|[Note](125.Valid%20Palindrome/README.md)|Easy|字符串 \| 双指针|
 |**127**|[单词阶梯](https://leetcode.com/problems/word-ladder/description/)|[C++](127.Word%20Ladder/127.cpp)|[Note](127.Word%20Ladder/README.md)|Medium|图 \| BFS|
 |**128**|[最长连续序列](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[C++](128.Longest%20Consecutive%20Sequence/128.cpp)|[Note](128.Longest%20Consecutive%20Sequence/README.md)|Hard|数组|
 |**130**|[被包围的区域](https://leetcode.com/problems/surrounded-regions/description/)|[C++](130.Surrounded%20Regions/130.cpp)|[Note](130.Surrounded%20Regions/README.md)|Medium|图 \| DFS|
@@ -91,6 +92,7 @@ Leetcode solutions in C++ 11
 |230|[BST中第K小的元素](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[C++](230.Kth%20Smallest%20Element%20in%20a%20BST/230.cpp)|[Note](230.Kth%20Smallest%20Element%20in%20a%20BST/README.md)|Medium|BST|
 |236|[二叉树的最低公共祖先](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)|[C++](236.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236.cpp)|[Note](236.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/README.md)|Medium|二叉树|
 |238|[除自身外的乘积数组](https://leetcode.com/problems/product-of-array-except-self/description/)|[C++](238.Product%20of%20Array%20Except%20Self/238.cpp)|[Note](238.Product%20of%20Array%20Except%20Self/README.md)|Medium|数组|
+|**239**|[滑动窗口的最大值](https://leetcode.com/problems/sliding-window-maximum/description/)|[C++](239.Sliding%20Window%20Maximum/239.cpp)|[Note](239.Sliding%20Window%20Maximum/README.md)|Hard|数组|
 |240|[二维矩阵中查找元素](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[C++](240.Search%20a%202D%20Matrix%20II/240.cpp)|[Note](240.Search%20a%202D%20Matrix%20II/README.md)|Medium|数组|
 |**279**|[完美平方数](https://leetcode.com/problems/perfect-squares/description/)|[C++](279.Perfect%20Squares/279.cpp)|[Note](279.Perfect%20Squares/README.md)|Medium|动态规划|
 |**287**|[找出数组中的冗余数字](https://leetcode.com/problems/find-the-duplicate-number/description/)|[C++](287.Find%20the%20Duplicate%20Number/287.cpp)|[Note](287.Find%20the%20Duplicate%20Number/README.md)|Medium|数组 \| 二分查找|
