@@ -72,6 +72,7 @@ Leetcode solutions in C++ 11
 |138|[带随机指针的链表复制](https://leetcode.com/problems/copy-list-with-random-pointer/description/)|[C++](138.Copy%20List%20with%20Random%20Pointer/138.cpp)|[Note](138.Copy%20List%20with%20Random%20Pointer/README.md)|Medium|链表|
 |139|[单词拆分I](https://leetcode.com/problems/word-break/description/)|[C++](139.Word%20Break/139.cpp)|[Note](139.Word%20Break/README.md)|Medium|字符串 \| 动态规划|
 |**140**|[单词拆分II](https://leetcode.com/problems/word-break-ii/description/)|[C++](140.Word%20Break%20II/140.cpp)|[Note](140.Word%20Break%20II/README.md)|Hard|字符串 \| 动态规划|
+|**146**|[LRU缓存机制](https://leetcode.com/problems/lru-cache/description/)|[C++](146.LRU%20Cache/146.cpp)|[Note](146.LRU%20Cache/README.md)|Hard|类设计|
 |**148**|[链表节点排序](https://leetcode.com/problems/sort-list/description/)|[C++](148.Sort%20List/148.cpp)|[Note](148.Sort%20List/README.md)|Medium|链表 \| 分治|
 |150|[逆波兰表达式求值](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)|[C++](150.Evaluate%20Reverse%20Polish%20Notation/150.cpp)|[Note](150.Evaluate%20Reverse%20Polish%20Notation/README.md)|Medium|数学 \| 栈|
 |**152**|[连续子数组的最大积](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](152.Maximum%20Product%20Subarray/152.cpp)|[Note](152.Maximum%20Product%20Subarray/README.md)|Medium|动态规划|
