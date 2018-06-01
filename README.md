@@ -80,6 +80,8 @@ Leetcode solutions in C++ 11
 |160|[两个链表的相交节点](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C++](160.Intersection%20of%20Two%20Linked%20Lists/160.cpp)|[Note](160.Intersection%20of%20Two%20Linked%20Lists/README.md)|Easy|链表|
 |162|[查找数组中任一峰值的下标](https://leetcode.com/problems/find-peak-element/description/)|[C++](162.Find%20Peak%20Element/162.cpp)|[Note](162.Find%20Peak%20Element/README.md)|Medium|数组 \| 二分查找|
 |**166**|[求分数的值](https://leetcode.com/problems/fraction-to-recurring-decimal/description/)|[C++](166.Fraction%20to%20Recurring%20Decimal/166.cpp)|[Note](166.Fraction%20to%20Recurring%20Decimal/README.md)|Medium|数学 \| 鲁棒性|
+|171|[Excel表列序号](https://leetcode.com/problems/excel-sheet-column-number/description/)|[C++](171.Excel%20Sheet%20Column%20Number/171.cpp)|[Note](171.Excel%20Sheet%20Column%20Number/README.md)|Easy|数学|
+|**172**|[阶乘后的零](https://leetcode.com/problems/factorial-trailing-zeroes/description/)|[C++](172.Factorial%20Trailing%20Zeroes/172.cpp)|[Note](172.Factorial%20Trailing%20Zeroes/README.md)|Easy|数学|
 |179|[求整形数组元素拼接出的最大数字](https://leetcode.com/problems/largest-number/description/)|[C++](179.Largest%20Number/179.cpp)|[Note](179.Largest%20Number/README.md)|Medium|数组|
 |200|[求岛屿的数量](https://leetcode.com/problems/number-of-islands/description/)|[C++](200.Number%20of%20Islands/200.cpp)|Note|Medium|图|
 |203|[删除链表中等于给定值的所有节点](https://leetcode.com/problems/remove-linked-list-elements/description/)|[C++](203.Remove%20Linked%20List%20Elements/203.cpp)|[Note](203.Remove%20Linked%20List%20Elements/README.md)|Easy|链表|
