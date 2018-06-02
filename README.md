@@ -1,6 +1,5 @@
 ## LeetCode
 
-
 Leetcode solutions in C++ 11
 
 |NO.|Title|Solution|Note|Difficulty|Tag|
@@ -69,7 +68,8 @@ Leetcode solutions in C++ 11
 |**130**|[被包围的区域](https://leetcode.com/problems/surrounded-regions/description/)|[C++](130.Surrounded%20Regions/130.cpp)|[Note](130.Surrounded%20Regions/README.md)|Medium|图 \| DFS|
 |**131**|[字符串所有子串都是回文的分区](https://leetcode.com/problems/palindrome-partitioning/description/)|[C++](131.Palindrome%20Partitioning/131.cpp)|[Note](131.Palindrome%20Partitioning/README.md)|Medium|字符串 \| DFS|
 |**134**|[加油站](https://leetcode.com/problems/gas-station/description/)|[C++](134.Gas%20Station/134.cpp)|[Note](http://www.cnblogs.com/boring09/p/4248482.html)|Medium|数组 \| 贪心|
-|137|[找出只出现1次的数字(其余都出现3次)](https://leetcode.com/problems/single-number-ii/description/)|[C++](137.Single%20Number%20II/137.cpp)|[Note](137.Single%20Number%20II/README.md)|Medium|数组 \| 位运算|
+|136|[只出现一次的数字](https://leetcode.com/problems/single-number/description/)|[C++](136.Single%20Number/136.cpp)|[Note](136.Single%20Number/README.md)|Easy|位运算|
+|137|[只出现一次的数字II](https://leetcode.com/problems/single-number-ii/description/)|[C++](137.Single%20Number%20II/137.cpp)|[Note](137.Single%20Number%20II/README.md)|Medium|位运算|
 |138|[带随机指针的链表复制](https://leetcode.com/problems/copy-list-with-random-pointer/description/)|[C++](138.Copy%20List%20with%20Random%20Pointer/138.cpp)|[Note](138.Copy%20List%20with%20Random%20Pointer/README.md)|Medium|链表|
 |139|[单词拆分I](https://leetcode.com/problems/word-break/description/)|[C++](139.Word%20Break/139.cpp)|[Note](139.Word%20Break/README.md)|Medium|字符串 \| 动态规划|
 |**140**|[单词拆分II](https://leetcode.com/problems/word-break-ii/description/)|[C++](140.Word%20Break%20II/140.cpp)|[Note](140.Word%20Break%20II/README.md)|Hard|字符串 \| 动态规划|
@@ -83,6 +83,9 @@ Leetcode solutions in C++ 11
 |171|[Excel表列序号](https://leetcode.com/problems/excel-sheet-column-number/description/)|[C++](171.Excel%20Sheet%20Column%20Number/171.cpp)|[Note](171.Excel%20Sheet%20Column%20Number/README.md)|Easy|数学|
 |**172**|[阶乘后的零](https://leetcode.com/problems/factorial-trailing-zeroes/description/)|[C++](172.Factorial%20Trailing%20Zeroes/172.cpp)|[Note](172.Factorial%20Trailing%20Zeroes/README.md)|Easy|数学|
 |179|[求整形数组元素拼接出的最大数字](https://leetcode.com/problems/largest-number/description/)|[C++](179.Largest%20Number/179.cpp)|[Note](179.Largest%20Number/README.md)|Medium|数组|
+|189|[旋转数组](https://leetcode.com/problems/rotate-array/description/)|[C++](189.Rotate%20Array/189.cpp)|[Note](189.Rotate%20Array/README.md)|Easy|数组|
+|**190**|[颠倒二进制位](https://leetcode.com/problems/reverse-bits/description/)|[C++](190.Reverse%20Bits/190.cpp)|[Note](190.Reverse%20Bits/README.md)|Easy|位运算|
+|191|[位1的个数](https://leetcode.com/problems/number-of-1-bits/description/)|[C++](191.Number%20of%201%20Bits/191.cpp)|[Note](191.Number%20of%201%20Bits/README.md)|Easy|位运算|
 |200|[求岛屿的数量](https://leetcode.com/problems/number-of-islands/description/)|[C++](200.Number%20of%20Islands/200.cpp)|Note|Medium|图|
 |203|[删除链表中等于给定值的所有节点](https://leetcode.com/problems/remove-linked-list-elements/description/)|[C++](203.Remove%20Linked%20List%20Elements/203.cpp)|[Note](203.Remove%20Linked%20List%20Elements/README.md)|Easy|链表|
 |206|[链表反序](https://leetcode.com/problems/reverse-linked-list/description/)|[C++](206.Reverse%20Linked%20List/206.cpp)|[Note](206.Reverse%20Linked%20List/README.md)|Easy|链表|
