@@ -73,9 +73,11 @@ Leetcode solutions in C++ 11
 |138|[带随机指针的链表复制](https://leetcode.com/problems/copy-list-with-random-pointer/description/)|[C++](138.Copy%20List%20with%20Random%20Pointer/138.cpp)|[Note](138.Copy%20List%20with%20Random%20Pointer/README.md)|Medium|链表|
 |139|[单词拆分I](https://leetcode.com/problems/word-break/description/)|[C++](139.Word%20Break/139.cpp)|[Note](139.Word%20Break/README.md)|Medium|字符串 \| 动态规划|
 |**140**|[单词拆分II](https://leetcode.com/problems/word-break-ii/description/)|[C++](140.Word%20Break%20II/140.cpp)|[Note](140.Word%20Break%20II/README.md)|Hard|字符串 \| 动态规划|
+|141|[判断链表是否有环](https://leetcode.com/problems/linked-list-cycle/description/)|[C++](141.Linked%20List%20Cycle/141.cpp)|[Note](141.Linked%20List%20Cycle/README.md)|Easy|链表|
 |**146**|[LRU缓存机制](https://leetcode.com/problems/lru-cache/description/)|[C++](146.LRU%20Cache/146.cpp)|[Note](146.LRU%20Cache/README.md)|Hard|类设计|
 |**148**|[链表节点排序](https://leetcode.com/problems/sort-list/description/)|[C++](148.Sort%20List/148.cpp)|[Note](148.Sort%20List/README.md)|Medium|链表 \| 分治|
 |150|[逆波兰表达式求值](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)|[C++](150.Evaluate%20Reverse%20Polish%20Notation/150.cpp)|[Note](150.Evaluate%20Reverse%20Polish%20Notation/README.md)|Medium|数学 \| 栈|
+|155|[最小栈](https://leetcode.com/problems/min-stack/description/)|[C++](155.Min%20Stack/155.cpp)|[Note](155.Min%20Stack/README.md)|Easy|类设计 \| 栈|
 |**152**|[连续子数组的最大积](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](152.Maximum%20Product%20Subarray/152.cpp)|[Note](152.Maximum%20Product%20Subarray/README.md)|Medium|动态规划|
 |160|[两个链表的相交节点](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C++](160.Intersection%20of%20Two%20Linked%20Lists/160.cpp)|[Note](160.Intersection%20of%20Two%20Linked%20Lists/README.md)|Easy|链表|
 |162|[查找数组中任一峰值的下标](https://leetcode.com/problems/find-peak-element/description/)|[C++](162.Find%20Peak%20Element/162.cpp)|[Note](162.Find%20Peak%20Element/README.md)|Medium|数组 \| 二分查找|
