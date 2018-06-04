@@ -95,6 +95,7 @@ Leetcode solutions in C++ 11
 |**207**|[课程安排](https://leetcode.com/problems/course-schedule/description/)|[C++](207.Course%20Schedule/207.cpp)|[Note](207.Course%20Schedule/README.md)|Medium|图 \| 拓扑排序|
 |**208**|[实现Trie树(前缀树)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)|[C++](208.Implement%20Trie/208.cpp)|Note|Medium|Trie树|
 |**210**|[课程安排II](https://leetcode.com/problems/course-schedule-ii/description/)|[C++](210.Course%20Schedule%20II/210.cpp)|[Note](210.Course%20Schedule%20II/README.md)|Medium|图 \| 拓扑排序|
+|**212**|[单词搜索II](https://leetcode.com/problems/word-search-ii/description/)|[C++](212.Word%20Search%20II/212.cpp)|[Note](212.Word%20Search%20II/README.md)|Hard|Trie树 \| 字符串|
 |215|[数组中第K大的元素](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[C++](215.Kth%20Largest%20Element%20in%20an%20Array/215.cpp)|[Note](215.Kth%20Largest%20Element%20in%20an%20Array/README.md)|Medium|数组|
 |**227**|[基础的计算器II](https://leetcode.com/problems/basic-calculator-ii/description/)|[C++](227.Basic%20Calculator%20II/227.cpp)|[Note](227.Basic%20Calculator%20II/README.md)|Medium|数学 \| 鲁棒性|
 |230|[BST中第K小的元素](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[C++](230.Kth%20Smallest%20Element%20in%20a%20BST/230.cpp)|[Note](230.Kth%20Smallest%20Element%20in%20a%20BST/README.md)|Medium|BST|
