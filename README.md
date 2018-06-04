@@ -90,6 +90,7 @@ Leetcode solutions in C++ 11
 |189|[旋转数组](https://leetcode.com/problems/rotate-array/description/)|[C++](189.Rotate%20Array/189.cpp)|[Note](189.Rotate%20Array/README.md)|Easy|数组|
 |**190**|[颠倒二进制位](https://leetcode.com/problems/reverse-bits/description/)|[C++](190.Reverse%20Bits/190.cpp)|[Note](190.Reverse%20Bits/README.md)|Easy|位运算|
 |191|[位1的个数](https://leetcode.com/problems/number-of-1-bits/description/)|[C++](191.Number%20of%201%20Bits/191.cpp)|[Note](191.Number%20of%201%20Bits/README.md)|Easy|位运算|
+|198|[打家劫舍](https://leetcode.com/problems/house-robber/description/)|[C++](198.House%20Robber/198.cpp)|[Note](198.House%20Robber/README.md)|Easy|动态规划|
 |200|[求岛屿的数量](https://leetcode.com/problems/number-of-islands/description/)|[C++](200.Number%20of%20Islands/200.cpp)|Note|Medium|图|
 |203|[删除链表中等于给定值的所有节点](https://leetcode.com/problems/remove-linked-list-elements/description/)|[C++](203.Remove%20Linked%20List%20Elements/203.cpp)|[Note](203.Remove%20Linked%20List%20Elements/README.md)|Easy|链表|
 |206|[链表反序](https://leetcode.com/problems/reverse-linked-list/description/)|[C++](206.Reverse%20Linked%20List/206.cpp)|[Note](206.Reverse%20Linked%20List/README.md)|Easy|链表|
