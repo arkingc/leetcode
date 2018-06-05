@@ -101,10 +101,12 @@ Leetcode solutions in C++ 11
 |**210**|[课程安排II](https://leetcode.com/problems/course-schedule-ii/description/)|[C++](210.Course%20Schedule%20II/210.cpp)|[Note](210.Course%20Schedule%20II/README.md)|Medium|图 \| 拓扑排序|
 |**212**|[单词搜索II](https://leetcode.com/problems/word-search-ii/description/)|[C++](212.Word%20Search%20II/212.cpp)|[Note](212.Word%20Search%20II/README.md)|Hard|Trie树 \| 字符串|
 |215|[数组中第K大的元素](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[C++](215.Kth%20Largest%20Element%20in%20an%20Array/215.cpp)|[Note](215.Kth%20Largest%20Element%20in%20an%20Array/README.md)|Medium|数组|
+|217|[存在重复元素](https://leetcode.com/problems/contains-duplicate/description/)|[C++](217.Contains%20Duplicate/217.cpp)|[Note](217.Contains%20Duplicate/README.md)|Easy|数组|
 |**227**|[基础的计算器II](https://leetcode.com/problems/basic-calculator-ii/description/)|[C++](227.Basic%20Calculator%20II/227.cpp)|[Note](227.Basic%20Calculator%20II/README.md)|Medium|数学 \| 鲁棒性|
 |230|[BST中第K小的元素](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[C++](230.Kth%20Smallest%20Element%20in%20a%20BST/230.cpp)|[Note](230.Kth%20Smallest%20Element%20in%20a%20BST/README.md)|Medium|BST|
 |236|[二叉树的最低公共祖先](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)|[C++](236.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236.cpp)|[Note](236.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/README.md)|Medium|二叉树|
 |238|[除自身外的乘积数组](https://leetcode.com/problems/product-of-array-except-self/description/)|[C++](238.Product%20of%20Array%20Except%20Self/238.cpp)|[Note](238.Product%20of%20Array%20Except%20Self/README.md)|Medium|数组|
+|**234**|[回文链表](https://leetcode.com/problems/palindrome-linked-list/description/)|[C++](234.Palindrome%20Linked%20List/234.cpp)|[Note](234.Palindrome%20Linked%20List/README.md)|Easy|链表|
 |**239**|[滑动窗口的最大值](https://leetcode.com/problems/sliding-window-maximum/description/)|[C++](239.Sliding%20Window%20Maximum/239.cpp)|[Note](239.Sliding%20Window%20Maximum/README.md)|Hard|数组|
 |240|[二维矩阵中查找元素](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[C++](240.Search%20a%202D%20Matrix%20II/240.cpp)|[Note](240.Search%20a%202D%20Matrix%20II/README.md)|Medium|数组|
 |**279**|[完美平方数](https://leetcode.com/problems/perfect-squares/description/)|[C++](279.Perfect%20Squares/279.cpp)|[Note](279.Perfect%20Squares/README.md)|Medium|动态规划|
