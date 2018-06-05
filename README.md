@@ -92,7 +92,9 @@ Leetcode solutions in C++ 11
 |191|[位1的个数](https://leetcode.com/problems/number-of-1-bits/description/)|[C++](191.Number%20of%201%20Bits/191.cpp)|[Note](191.Number%20of%201%20Bits/README.md)|Easy|位运算|
 |198|[打家劫舍](https://leetcode.com/problems/house-robber/description/)|[C++](198.House%20Robber/198.cpp)|[Note](198.House%20Robber/README.md)|Easy|动态规划|
 |200|[求岛屿的数量](https://leetcode.com/problems/number-of-islands/description/)|[C++](200.Number%20of%20Islands/200.cpp)|Note|Medium|图|
+|**202**|[快乐数](https://leetcode.com/problems/happy-number/description/)|[C++](202.Happy%20Number/200.cpp)|[Note](202.Happy%20Number/README.md)|Easy|数学|
 |203|[删除链表中等于给定值的所有节点](https://leetcode.com/problems/remove-linked-list-elements/description/)|[C++](203.Remove%20Linked%20List%20Elements/203.cpp)|[Note](203.Remove%20Linked%20List%20Elements/README.md)|Easy|链表|
+|**204**|[计数质数](https://leetcode.com/problems/count-primes/description/)|[C++](204.Count%20Primes/204.cpp)|[Note](204.Count%20Primes/README.md)|Easy|数学|
 |206|[链表反序](https://leetcode.com/problems/reverse-linked-list/description/)|[C++](206.Reverse%20Linked%20List/206.cpp)|[Note](206.Reverse%20Linked%20List/README.md)|Easy|链表|
 |**207**|[课程安排](https://leetcode.com/problems/course-schedule/description/)|[C++](207.Course%20Schedule/207.cpp)|[Note](207.Course%20Schedule/README.md)|Medium|图 \| 拓扑排序|
 |**208**|[实现Trie树(前缀树)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)|[C++](208.Implement%20Trie/208.cpp)|Note|Medium|Trie树|
