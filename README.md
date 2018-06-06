@@ -111,6 +111,7 @@ Leetcode solutions in C++ 11
 |**239**|[滑动窗口的最大值](https://leetcode.com/problems/sliding-window-maximum/description/)|[C++](239.Sliding%20Window%20Maximum/239.cpp)|[Note](239.Sliding%20Window%20Maximum/README.md)|Hard|数组|
 |240|[二维矩阵中查找元素](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[C++](240.Search%20a%202D%20Matrix%20II/240.cpp)|[Note](240.Search%20a%202D%20Matrix%20II/README.md)|Medium|数组|
 |242|[有效的字母异位词](https://leetcode.com/problems/valid-anagram/description/)|[C++](242.Valid%20Anagram/242.cpp)|[Note](242.Valid%20Anagram/README.md)|Easy|字符串|
+|**268**|[缺失数字](https://leetcode.com/problems/missing-number/description/)|[C++](268.Missing%20Number/268.cpp)|[Note](268.Missing%20Number/README.md)|Easy|数组 \| 数学 \| 位运算|
 |**279**|[完美平方数](https://leetcode.com/problems/perfect-squares/description/)|[C++](279.Perfect%20Squares/279.cpp)|[Note](279.Perfect%20Squares/README.md)|Medium|动态规划|
 |**287**|[找出数组中的冗余数字](https://leetcode.com/problems/find-the-duplicate-number/description/)|[C++](287.Find%20the%20Duplicate%20Number/287.cpp)|[Note](287.Find%20the%20Duplicate%20Number/README.md)|Medium|数组 \| 二分查找|
 |**289**|[细胞自动机的下一个状态](https://leetcode-cn.com/problems/game-of-life/description/)|[C++](289.Game%20of%20Life/289.cpp)|[Note](289.Game%20of%20Life/README.md)|Medium|数组|
