@@ -117,6 +117,7 @@ Leetcode solutions in C++ 11
 |**287**|[找出数组中的冗余数字](https://leetcode.com/problems/find-the-duplicate-number/description/)|[C++](287.Find%20the%20Duplicate%20Number/287.cpp)|[Note](287.Find%20the%20Duplicate%20Number/README.md)|Medium|数组 \| 二分查找|
 |**289**|[细胞自动机的下一个状态](https://leetcode-cn.com/problems/game-of-life/description/)|[C++](289.Game%20of%20Life/289.cpp)|[Note](289.Game%20of%20Life/README.md)|Medium|数组|
 |**295**|[数据流的中位数](https://leetcode.com/problems/find-median-from-data-stream/description/)|[C++](295.Find%20Median%20from%20Data%20Stream/295.cpp)|[Note](295.Find%20Median%20from%20Data%20Stream/README.md)|Hard|类设计 \| 堆|
+|**297**|[二叉树的序列化与反序列化](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[C++](297.Serialize%20and%20Deserialize%20Binary%20Tree/295.cpp)|[Note](297.Serialize%20and%20Deserialize%20Binary%20Tree/README.md)|Hard|二叉树|
 |**300**|[数组的最长升序序列](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[C++](300.Longest%20Increasing%20Subsequence/300.cpp)|[Note](300.Longest%20Increasing%20Subsequence/README.md)|Medium|数组|
 |**322**|[找钱](https://leetcode.com/problems/coin-change/description/)|[C++](322.Coin%20Change/322.cpp)|[Note](322.Coin%20Change/README.md)|Medium|数组 \| 动态规划|
 |**324**|[摆动排序II](https://leetcode.com/problems/wiggle-sort-ii/description/)|[C++](324.Wiggle%20Sort%20II/324.cpp)|[Note](324.Wiggle%20Sort%20II/README.md)|Medium|数组|
