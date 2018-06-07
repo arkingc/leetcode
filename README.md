@@ -121,6 +121,7 @@ Leetcode solutions in C++ 11
 |**300**|[数组的最长升序序列](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[C++](300.Longest%20Increasing%20Subsequence/300.cpp)|[Note](300.Longest%20Increasing%20Subsequence/README.md)|Medium|数组|
 |**322**|[找钱](https://leetcode.com/problems/coin-change/description/)|[C++](322.Coin%20Change/322.cpp)|[Note](322.Coin%20Change/README.md)|Medium|数组 \| 动态规划|
 |**324**|[摆动排序II](https://leetcode.com/problems/wiggle-sort-ii/description/)|[C++](324.Wiggle%20Sort%20II/324.cpp)|[Note](324.Wiggle%20Sort%20II/README.md)|Medium|数组|
+|**326**|[3的幂](https://leetcode-cn.com/problems/power-of-three/description/)|[C++](326.Power%20of%20Three/326.cpp)|[Note](326.Power%20of%20Three/README.md)|Easy|数学|
 |328|[将链表偶数位置的节点移到尾部](https://leetcode.com/problems/odd-even-linked-list/description/)|[C++](328.Odd%20Even%20Linked%20List/328.cpp)|[Note](328.Odd%20Even%20Linked%20List/README.md)|Medium|链表|
 |**334**|[数组的三元升序子序列](https://leetcode.com/problems/increasing-triplet-subsequence/description/)|[C++](334.Increasing%20Triplet%20Subsequence/334.cpp)|[Note](334.Increasing%20Triplet%20Subsequence/README.md)|Medium|数组|
 |**341**|[扁平化嵌套列表迭代器](https://leetcode.com/problems/flatten-nested-list-iterator/description/)|[C++](341.Flatten%20Nested%20List%20Iterator/341.cpp)|[Note](341.Flatten%20Nested%20List%20Iterator/README.md)|Medium|类设计 \| 栈|
