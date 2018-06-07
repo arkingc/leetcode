@@ -124,6 +124,7 @@ Leetcode solutions in C++ 11
 |328|[将链表偶数位置的节点移到尾部](https://leetcode.com/problems/odd-even-linked-list/description/)|[C++](328.Odd%20Even%20Linked%20List/328.cpp)|[Note](328.Odd%20Even%20Linked%20List/README.md)|Medium|链表|
 |**334**|[数组的三元升序子序列](https://leetcode.com/problems/increasing-triplet-subsequence/description/)|[C++](334.Increasing%20Triplet%20Subsequence/334.cpp)|[Note](334.Increasing%20Triplet%20Subsequence/README.md)|Medium|数组|
 |**341**|[扁平化嵌套列表迭代器](https://leetcode.com/problems/flatten-nested-list-iterator/description/)|[C++](341.Flatten%20Nested%20List%20Iterator/341.cpp)|[Note](341.Flatten%20Nested%20List%20Iterator/README.md)|Medium|类设计 \| 栈|
+|344|[反转字符串](https://leetcode.com/problems/reverse-string/description/)|[C++](344.Reverse%20String/344.cpp)|Note|Easy|字符串|
 |**347**|[出现频率最高的k个数字](https://leetcode.com/problems/top-k-frequent-elements/description/)|[C++](347.Top%20K%20Frequent%20Elements/347.cpp)|[Note](347.Top%20K%20Frequent%20Elements/README.md)|Medium|数组|
 |**378**|[有序矩阵中第K小的元素](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)|[C++](378.Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/378.cpp)|[Note](378.Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/README.md)|Medium|数组 \| 二分查找|
 |380|[实现O(1)的插入删除与随机获取](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)|[C++](380.Insert%20Delete%20GetRandom%20O(1)/380.cpp)|Note|Medium|类设计|
