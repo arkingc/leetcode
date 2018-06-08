@@ -123,6 +123,7 @@ Leetcode solutions in C++ 11
 |**324**|[摆动排序II](https://leetcode.com/problems/wiggle-sort-ii/description/)|[C++](324.Wiggle%20Sort%20II/324.cpp)|[Note](324.Wiggle%20Sort%20II/README.md)|Medium|数组|
 |**326**|[3的幂](https://leetcode-cn.com/problems/power-of-three/description/)|[C++](326.Power%20of%20Three/326.cpp)|[Note](326.Power%20of%20Three/README.md)|Easy|数学|
 |328|[将链表偶数位置的节点移到尾部](https://leetcode.com/problems/odd-even-linked-list/description/)|[C++](328.Odd%20Even%20Linked%20List/328.cpp)|[Note](328.Odd%20Even%20Linked%20List/README.md)|Medium|链表|
+|**329**|[矩阵中的最长递增路径](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)|[C++](329.Longest%20Increasing%20Path%20in%20a%20Matrix/329.cpp)|[Note](329.Longest%20Increasing%20Path%20in%20a%20Matrix/README.md)|Hard|DFS|
 |**334**|[数组的三元升序子序列](https://leetcode.com/problems/increasing-triplet-subsequence/description/)|[C++](334.Increasing%20Triplet%20Subsequence/334.cpp)|[Note](334.Increasing%20Triplet%20Subsequence/README.md)|Medium|数组|
 |**341**|[扁平化嵌套列表迭代器](https://leetcode.com/problems/flatten-nested-list-iterator/description/)|[C++](341.Flatten%20Nested%20List%20Iterator/341.cpp)|[Note](341.Flatten%20Nested%20List%20Iterator/README.md)|Medium|类设计 \| 栈|
 |344|[反转字符串](https://leetcode.com/problems/reverse-string/description/)|[C++](344.Reverse%20String/344.cpp)|Note|Easy|字符串|
