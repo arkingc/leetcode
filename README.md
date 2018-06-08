@@ -128,6 +128,7 @@ Leetcode solutions in C++ 11
 |344|[反转字符串](https://leetcode.com/problems/reverse-string/description/)|[C++](344.Reverse%20String/344.cpp)|Note|Easy|字符串|
 |**347**|[出现频率最高的k个数字](https://leetcode.com/problems/top-k-frequent-elements/description/)|[C++](347.Top%20K%20Frequent%20Elements/347.cpp)|[Note](347.Top%20K%20Frequent%20Elements/README.md)|Medium|数组|
 |**350**|[两个数组的交集II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[C++](350.Intersection%20of%20Two%20Arrays%20II/350.cpp)|[Note](350.Intersection%20of%20Two%20Arrays%20II/README.md)|Easy|数组|
+|371|[两整数之和](https://leetcode.com/problems/sum-of-two-integers/description/)|[C++](371.Sum%20of%20Two%20Integers/371.cpp)|[Note](371.Sum%20of%20Two%20Integers/README.md)|Easy|位运算 \| 条件限制|
 |**378**|[有序矩阵中第K小的元素](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)|[C++](378.Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/378.cpp)|[Note](378.Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/README.md)|Medium|数组 \| 二分查找|
 |380|[实现O(1)的插入删除与随机获取](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)|[C++](380.Insert%20Delete%20GetRandom%20O(1)/380.cpp)|Note|Medium|类设计|
 |384|[打乱数组](https://leetcode.com/problems/shuffle-an-array/description/)|[C++](384.Shuffle%20an%20Array/384.cpp)|[Note](384.Shuffle%20an%20Array/README.md)|Medium|数组 \| 洗牌算法|
