@@ -77,7 +77,96 @@ private:
 };
 ```
 
-### 2）树状数组
+### 2）BST
+
+假设从数组右边往左构建BST，每当遍历到一个元素时，其右边节点已经构成了一棵BST，对于当前节点，如果能在将其插入BST的过程中同时得到BST中小于该元素的节点个数，那么每个元素就能实现O(logn)的查找，总的时间复杂度就是O(nlogn)
+
+为了能够在BST中快速得到比新插入元素小的节点个数，肯定需要在节点中维护除节点值以外的其它信息。因为数组中可能包含相同元素，那么BST节点中添加一个`count`变量统计相同元素的个数，那么再添加一个`left_count`变量表示BST中比当前节点值小的节点总数（**这种假设是一种全局性质**），假设这样行的通，那么只要找到新节点插入点的父节点，那么就可以根据父节点判断比新值小的元素有多少个
+
+但是这样行不通，因为在插入节点时，需要更新BST中已有节点的`left_count`，如果`left_count`表示BST中比当前节点值小的节点总数，那么无法实现O(logn)的查找，考虑如下例子：
+
+```
+       a
+      / \
+     b   c 
+```
+
+
+* 如果新节点比a小，如果`left_count`表示BST中比当前节点值小的节点总数，那么在新节点插入时，需要递增a节点的`left_count`
+* 如果新节点比a大，a节点的`left_count`不变，继续往a节点的右子树处理
+
+注意，问题出在新节点比a小时！此时只能更新a，如果`left_count`表示BST中比当前节点值小的节点总数，那么所有a节点右子树中的节点都应该递增其`left_count`
+
+那么到底应该赋予`left_count`什么样的意义？现在不管a节点的左子树和右子树长什么样，并且假设a是BST中任意节点。每当一个节点需要插入a节点的左边时，比a节点小的节点都加1，这是肯定没问题的。所以我们**只能保证一直局部性质**，即**`left_count`表示该节点左子树的节点总数**
+
+那么如果`left_count`表示该节点左子树的节点总数，有没有办法在插入一个节点时获取整棵BST中比新节点小的节点总是？答案是肯定的，从根节点开始遍历，查找新节点的插入位置：
+
+* 如果新节点大于某个节点a，那么小于新节点的节点个数就增加`a->left_count+a->count`
+* 如果新节点等于某个节点a，那么小于新节点的节点个数就增加`a->left_count`
+* 如果新节点小于某个节点a，此时只能知道新节点在a的左子树中，但是无法知道a的左子树中有多少节点小于新节点，所以暂时无法得出应该增加多少，因此增加`0`
+
+```c++
+class Solution {
+public:
+    vector<int> countSmaller(vector<int>& nums) {
+        if(nums.size() <= 0)    return vector<int>();
+        
+        vector<int> res;
+        BSTNode *root = new BSTNode(nums.back());
+        res.push_back(0);
+        for(int i = nums.size() - 2;i >= 0;i--)
+            res.push_back(insertBSTNode(root,nums[i]));
+        
+        delete root;
+    
+        reverse(res.begin(),res.end());
+        
+        return res;    
+    }
+private:
+    struct BSTNode{
+        int val;        //节点的值
+        int count;      //相同值的个数
+        int left_count; //左子树节点的个数
+        BSTNode *left;
+        BSTNode *right;
+        BSTNode(int v) : val(v) , count(1) , left_count(0) , left(NULL) , right(NULL) {}
+        ~BSTNode() {delete left;delete right;}
+    };
+
+    int insertBSTNode(BSTNode *root,int val){
+        int res = 0;
+        BSTNode *p = root,*pp;
+        while(p){
+            if(val < p->val){
+                (p->left_count)++;
+                res += 0;
+                pp = p;
+                p = p->left;
+            }
+            else if(val > p->val){
+                res += p->count + p->left_count;
+                pp = p;
+                p = p->right;
+            }
+            else{
+                (p->count)++;
+                res += p->left_count;
+                break;
+            }
+        }
+        BSTNode *node = p;
+        if(!p){ //说明不是一个以前出现过的值，因此需要插入
+            node = new BSTNode(val);
+            if(val < pp->val)   pp->left = node;
+            else    pp->right = node;
+        }
+        return res;
+    }
+};
+```
+
+### 3）树状数组
 
 * [树状数组(Binary Index Tree)介绍](https://www.youtube.com/watch?v=WbafSgetDDk)
 * [树状数组的解法](https://www.youtube.com/watch?v=2SVLYsq5W8M)
