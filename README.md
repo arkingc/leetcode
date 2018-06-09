@@ -119,6 +119,7 @@ Leetcode solutions in C++ 11
 |**295**|[数据流的中位数](https://leetcode.com/problems/find-median-from-data-stream/description/)|[C++](295.Find%20Median%20from%20Data%20Stream/295.cpp)|[Note](295.Find%20Median%20from%20Data%20Stream/README.md)|Hard|类设计 \| 堆|
 |**297**|[二叉树的序列化与反序列化](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[C++](297.Serialize%20and%20Deserialize%20Binary%20Tree/295.cpp)|[Note](297.Serialize%20and%20Deserialize%20Binary%20Tree/README.md)|Hard|二叉树|
 |**300**|[数组的最长升序序列](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[C++](300.Longest%20Increasing%20Subsequence/300.cpp)|[Note](300.Longest%20Increasing%20Subsequence/README.md)|Medium|数组|
+|**315**|[计算右侧小于当前元素的个数](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)|[C++](315.Count%20of%20Smaller%20Numbers%20After%20Self/315.cpp)|[Note](315.Count%20of%20Smaller%20Numbers%20After%20Self/README.md)|Hard|分治 \| 树状数组 \| BST|
 |**322**|[找钱](https://leetcode.com/problems/coin-change/description/)|[C++](322.Coin%20Change/322.cpp)|[Note](322.Coin%20Change/README.md)|Medium|数组 \| 动态规划|
 |**324**|[摆动排序II](https://leetcode.com/problems/wiggle-sort-ii/description/)|[C++](324.Wiggle%20Sort%20II/324.cpp)|[Note](324.Wiggle%20Sort%20II/README.md)|Medium|数组|
 |**326**|[3的幂](https://leetcode-cn.com/problems/power-of-three/description/)|[C++](326.Power%20of%20Three/326.cpp)|[Note](326.Power%20of%20Three/README.md)|Easy|数学|
