@@ -6,6 +6,7 @@ Leetcode solutions in C++ 11
 |---|-----|--------|----|----------|---|
 |3|[字符串中不含重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[C++](3.Longest%20Substring%20Without%20Repeating%20Characters/3.cpp)|[Note](3.Longest%20Substring%20Without%20Repeating%20Characters/README.md)|Medium|字符串|
 |**4**|[两个排序数组的中值](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[C++](4.Median%20of%20Two%20Sorted%20Arrays/4.cpp)|[Note](4.Median%20of%20Two%20Sorted%20Arrays/README.md)|Hard|数组 \| 二分查找|
+|**8**|[字符串转整数(atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[C++](8.String%20to%20Integer/8.cpp)|[Note](8.String%20to%20Integer/README.md)|Medium|字符串 \| 数学 \| 鲁棒性|
 |17|[电话号码的字符组合](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[C++](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/8097/My-iterative-sollution-very-simple-under-15-lines)|[Note](17.Letter%20Combinations%20of%20a%20Phone%20Number/README.md)|Medium|字符串|
 |20|[有效的括号](https://leetcode.com/problems/valid-parentheses/description/)|[C++](20.Valid%20Parentheses/20.cpp)|[Note](20.Valid%20Parentheses/README.md)|Easy|字符串 \| 栈|
 |21|[合并两个有序链表](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[C++](21.Merge%20Two%20Sorted%20Lists/21.cpp)|[Note](21.Merge%20Two%20Sorted%20Lists/README.md)|Easy|链表|
