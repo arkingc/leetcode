@@ -4,8 +4,11 @@ Leetcode solutions in C++ 11
 
 |NO.|Title|Solution|Note|Difficulty|Tag|
 |---|-----|--------|----|----------|---|
+|1|[两数之和](https://leetcode.com/problems/two-sum/description/)|[C++](1.Two%20Sum/1.cpp)|[Note](1.Two%20Sum/README.md)|Easy|数组 \| 哈希表|
+|2|[两数相加](https://leetcode.com/problems/add-two-numbers/description/)|[C++](2.Add%20Two%20Numbers/2.cpp)|[Note](2.Add%20Two%20Numbers/README.md)|Medium|链表 \| 数学|
 |3|[字符串中不含重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[C++](3.Longest%20Substring%20Without%20Repeating%20Characters/3.cpp)|[Note](3.Longest%20Substring%20Without%20Repeating%20Characters/README.md)|Medium|字符串|
 |**4**|[两个排序数组的中值](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[C++](4.Median%20of%20Two%20Sorted%20Arrays/4.cpp)|[Note](4.Median%20of%20Two%20Sorted%20Arrays/README.md)|Hard|数组 \| 二分查找|
+|**5**|[最长回文子串](https://leetcode.com/problems/longest-palindromic-substring/description/)|[C++](5.Longest%20Palindromic%20Substring/5.cpp)|[Note](5.Longest%20Palindromic%20Substring/README.md)|Medium|字符串 \| 动态规划|
 |**8**|[字符串转整数(atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[C++](8.String%20to%20Integer/8.cpp)|[Note](8.String%20to%20Integer/README.md)|Medium|字符串 \| 数学 \| 鲁棒性|
 |17|[电话号码的字符组合](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[C++](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/8097/My-iterative-sollution-very-simple-under-15-lines)|[Note](17.Letter%20Combinations%20of%20a%20Phone%20Number/README.md)|Medium|字符串|
 |20|[有效的括号](https://leetcode.com/problems/valid-parentheses/description/)|[C++](20.Valid%20Parentheses/20.cpp)|[Note](20.Valid%20Parentheses/README.md)|Easy|字符串 \| 栈|
