@@ -9,8 +9,15 @@ Leetcode solutions in C++ 11
 |3|[字符串中不含重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[C++](3.Longest%20Substring%20Without%20Repeating%20Characters/3.cpp)|[Note](3.Longest%20Substring%20Without%20Repeating%20Characters/README.md)|Medium|字符串|
 |**4**|[两个排序数组的中值](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[C++](4.Median%20of%20Two%20Sorted%20Arrays/4.cpp)|[Note](4.Median%20of%20Two%20Sorted%20Arrays/README.md)|Hard|数组 \| 二分查找|
 |**5**|[最长回文子串](https://leetcode.com/problems/longest-palindromic-substring/description/)|[C++](5.Longest%20Palindromic%20Substring/5.cpp)|[Note](5.Longest%20Palindromic%20Substring/README.md)|Medium|字符串 \| 动态规划|
+|7|[反转整数](https://leetcode.com/problems/reverse-integer/description/)|[C++](7.Reverse%20Integer/7.cpp)|[Note](7.Reverse%20Integer/README.md)|Easy|数学 \| 鲁棒性|
 |**8**|[字符串转整数(atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[C++](8.String%20to%20Integer/8.cpp)|[Note](8.String%20to%20Integer/README.md)|Medium|字符串 \| 数学 \| 鲁棒性|
+|**10**|[正则表达式匹配](https://leetcode.com/problems/regular-expression-matching/description/)|[C++](10.Regular%20Expression%20Matching/10.cpp)|[Note](10.Regular%20Expression%20Matching/README.md)|Hard|字符串 \| 动态规划|
+|11|[盛最多水的容器](https://leetcode.com/problems/container-with-most-water/description/)|[C++](11.Container%20With%20Most%20Water/11.cpp)|[Note](11.Container%20With%20Most%20Water/README.md)|Medium|数组 \| 双指针|
+|**13**|[罗马数字转整数](https://leetcode.com/problems/roman-to-integer/description/)|[C++](13.Roman%20to%20Integer/13.cpp)|[Note](13.Roman%20to%20Integer/README.md)|Easy|数学 \| 字符串|
+|**14**|[最长公共前缀](https://leetcode.com/problems/longest-common-prefix/description/)|[C++](14.Longest%20Common%20Prefix/14.cpp)|[Note](14.Longest%20Common%20Prefix/README.md)|Easy|字符串|
+|**15**|[三数之和](https://leetcode.com/problems/3sum/description/)|[C++](15.3Sum/15.cpp)|[Note](15.3Sum/README.md)|Medium|数组 \| 双指针|
 |17|[电话号码的字符组合](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[C++](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/8097/My-iterative-sollution-very-simple-under-15-lines)|[Note](17.Letter%20Combinations%20of%20a%20Phone%20Number/README.md)|Medium|字符串|
+|**19**|[删除链表倒数第n个节点](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[C++](19.Remove%20Nth%20Node%20From%20End%20of%20List/19.cpp)|[Note](19.Remove%20Nth%20Node%20From%20End%20of%20List/README.md)|Medium|链表 \| 鲁棒性|
 |20|[有效的括号](https://leetcode.com/problems/valid-parentheses/description/)|[C++](20.Valid%20Parentheses/20.cpp)|[Note](20.Valid%20Parentheses/README.md)|Easy|字符串 \| 栈|
 |21|[合并两个有序链表](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[C++](21.Merge%20Two%20Sorted%20Lists/21.cpp)|[Note](21.Merge%20Two%20Sorted%20Lists/README.md)|Easy|链表|
 |22|[n对括号的所有有效形式](https://leetcode.com/problems/generate-parentheses/description/)|[C++](22.Generate%20Parentheses/22.cpp)|[Note](22.Generate%20Parentheses/README.md)|Medium|回溯|
