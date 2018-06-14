@@ -19,7 +19,9 @@
 
 ## 解答
 
-**动态规划**，使用一个矩阵记录每个子串是不是回文，对于一个是回文的子串，判断该子串是不是更长的子串，如果是则更新结果：
+### 方法一：动态规划
+
+使用一个矩阵记录每个子串是不是回文，对于一个是回文的子串，判断该子串是不是更长的子串，如果是则更新结果：
 
 <div align="center"> <img src="../img/5.png"/> </div>
 
@@ -51,6 +53,40 @@ public:
             }
         }
         return res;
+    }
+};
+```
+
+### 方法二：从中心扩展
+
+以字符串的每个字符为中心，向两边扩展，找出以每个字符为中心的回文，其中最长的就是结果
+
+注意：字符串的中心可能是多个相同的字符，所以每次处理以连续的相同字符为中心
+
+```c++
+class Solution {
+public:
+    string longestPalindrome(string s) {
+        if(s.length() <= 1) return s;
+        
+        string res = "";
+        int j;
+        for(int i = 0;i < s.length();i = j){
+            //向右找到第一个不相同的字符，i~(j-1)为相同字符
+            for(j = i + 1;j < s.length() && s[j] == s[i];j++) {}
+            int len = longestPalindrome(s,i,j - 1);
+            if(len > res.length())
+                res = s.substr(i - (len - (j - i)) / 2,len);
+        }
+        return res;
+    }
+private:
+    int longestPalindrome(const string &s,int i,int j){
+        int l = i - 1,r = j + 1,len = s.length();
+        int count = j - i + 1;
+        while(l >= 0 && r < len && s[l--] == s[r++])
+                count += 2;
+        return count;
     }
 };
 ```
