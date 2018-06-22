@@ -51,8 +51,8 @@ Leetcode solutions in C++ 11
 |**69**|[x的平方根](https://leetcode.com/problems/sqrtx/description/)|[C++](69.Sqrtx/69.cpp)|[Note](69.Sqrtx/README.md)|Easy|数学 \| 二分查找 \| 鲁棒性|
 |70|[爬楼梯](https://leetcode.com/problems/climbing-stairs/description/)|[C++](70.Climbing%20Stairs/70.cpp)|[Note](70.Climbing%20Stairs/README.md)|Easy|数组 \| 动态规划|
 |**73**|[设置矩阵中的0](https://leetcode.com/problems/set-matrix-zeroes/description/)|[C++](73.Set%20Matrix%20Zeroes/73.cpp)|[Note](73.Set%20Matrix%20Zeroes/README.md)|Medium|数组|
-|**76**|[最小覆盖子串](https://leetcode.com/problems/minimum-window-substring/description/)|[C++](76.Minimum%20Window%20Substring/76.cpp)|[Note](76.Minimum%20Window%20Substring/README.md)|Hard|数组 \| 滑动窗口 \| 双指针|
 |75|[排序数组中的0、1、2](https://leetcode.com/problems/sort-colors/description/)|[C++](75.Sort%20Colors/75.cpp)|[Note](75.Sort%20Colors/README.md)|Medium|数组|
+|**76**|[最小覆盖子串](https://leetcode.com/problems/minimum-window-substring/description/)|[C++](76.Minimum%20Window%20Substring/76.cpp)|[Note](76.Minimum%20Window%20Substring/README.md)|Hard|数组 \| 滑动窗口 \| 双指针|
 |78|[不含重复元素集合的所有子集](https://leetcode.com/problems/subsets/description/)|[C++](78.Subsets/78.cpp)|[Note](78.Subsets/README.md)|Medium|数组|
 |79|[字符矩阵中查找字符串](https://leetcode.com/problems/word-search/description/)|[C++](79.Word%20Search/79.cpp)|[Note](79.Word%20Search/README.md)|Medium|数组 \| 回溯|
 |83|[删除有序链表的冗余节点](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C++](83.Remove%20Duplicates%20from%20Sorted%20List/83.cpp)|[Note](83.Remove%20Duplicates%20from%20Sorted%20List/README.md)|Easy|链表|
@@ -69,12 +69,12 @@ Leetcode solutions in C++ 11
 |108|[将有序数组转换为二叉搜索树](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)|[C++](108.Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/108.cpp)|[Note](108.Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/README.md)|Easy|二叉树|
 |**109**|[将有序链表转换二叉搜索树](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)|[C++](109.Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/109.cpp)|[Note](109.Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/README.md)|Medium|二叉树|
 |**116**|[将二叉树的每一层串成链表](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)|[C++](116.Populating%20Next%20Right%20Pointers%20in%20Each%20Node/116.cpp)|[Note](116.Populating%20Next%20Right%20Pointers%20in%20Each%20Node/README.md)|Medium|二叉树|
-|118|[输出杨辉三角的前n行](https://leetcode.com/problems/pascals-triangle/description/)|[C++](118.Pascal's%20Triangle/118.cpp)|[Note](118.Pascal's%20Triangle/README.md)|Easy|数组|
+|118|[输出杨辉三角的前n行](https://leetcode.com/problems/pascals-triangle/description/)|[C++](118.Pascal's%20Triangle/118.cpp)|[Note](118.Pascal's%20Triangle/README.md)|Easy|数学|
 |121|[买卖股票的最佳时机](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[C++](121.Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.cpp)|[Note](121.Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md)|Easy|数组|
 |122|[买卖股票的最佳时机II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[C++](122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/122.cpp)|[Note](122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/README.md)|Easy|数组|
 |**124**|[二叉树的最大路径和](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)|[C++](124.Binary%20Tree%20Maximum%20Path%20Sum/124.cpp)|[Note](124.Binary%20Tree%20Maximum%20Path%20Sum/README.md)|Hard|二叉树|
 |**125**|[验证回文串](https://leetcode.com/problems/valid-palindrome/description/)|[C++](125.Valid%20Palindrome/125.cpp)|[Note](125.Valid%20Palindrome/README.md)|Easy|字符串 \| 双指针|
-|**127**|[单词阶梯](https://leetcode.com/problems/word-ladder/description/)|[C++](127.Word%20Ladder/127.cpp)|[Note](127.Word%20Ladder/README.md)|Medium|图 \| BFS|
+|**127**|[单词阶梯](https://leetcode.com/problems/word-ladder/description/)|[C++](127.Word%20Ladder/127.cpp)|[Note](127.Word%20Ladder/README.md)|Medium|字符串 \| 图 \| BFS|
 |**128**|[最长连续序列](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[C++](128.Longest%20Consecutive%20Sequence/128.cpp)|[Note](128.Longest%20Consecutive%20Sequence/README.md)|Hard|数组|
 |**130**|[被包围的区域](https://leetcode.com/problems/surrounded-regions/description/)|[C++](130.Surrounded%20Regions/130.cpp)|[Note](130.Surrounded%20Regions/README.md)|Medium|图 \| DFS|
 |**131**|[字符串所有子串都是回文的分区](https://leetcode.com/problems/palindrome-partitioning/description/)|[C++](131.Palindrome%20Partitioning/131.cpp)|[Note](131.Palindrome%20Partitioning/README.md)|Medium|字符串 \| DFS|
@@ -89,8 +89,8 @@ Leetcode solutions in C++ 11
 |**148**|[链表节点排序](https://leetcode.com/problems/sort-list/description/)|[C++](148.Sort%20List/148.cpp)|[Note](148.Sort%20List/README.md)|Medium|链表 \| 分治|
 |**149**|[直线上最多的点数](https://leetcode.com/problems/max-points-on-a-line/description/)|[C++](149.Max%20Points%20on%20a%20Line/149.cpp)|[Note](149.Max%20Points%20on%20a%20Line/README.md)|Hard|数学 \| 哈希表|
 |150|[逆波兰表达式求值](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)|[C++](150.Evaluate%20Reverse%20Polish%20Notation/150.cpp)|[Note](150.Evaluate%20Reverse%20Polish%20Notation/README.md)|Medium|数学 \| 栈|
-|155|[最小栈](https://leetcode.com/problems/min-stack/description/)|[C++](155.Min%20Stack/155.cpp)|[Note](155.Min%20Stack/README.md)|Easy|类设计 \| 栈|
 |**152**|[连续子数组的最大积](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](152.Maximum%20Product%20Subarray/152.cpp)|[Note](152.Maximum%20Product%20Subarray/README.md)|Medium|动态规划|
+|155|[最小栈](https://leetcode.com/problems/min-stack/description/)|[C++](155.Min%20Stack/155.cpp)|[Note](155.Min%20Stack/README.md)|Easy|类设计 \| 栈|
 |160|[两个链表的相交节点](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C++](160.Intersection%20of%20Two%20Linked%20Lists/160.cpp)|[Note](160.Intersection%20of%20Two%20Linked%20Lists/README.md)|Easy|链表|
 |162|[查找数组中任一峰值的下标](https://leetcode.com/problems/find-peak-element/description/)|[C++](162.Find%20Peak%20Element/162.cpp)|[Note](162.Find%20Peak%20Element/README.md)|Medium|数组 \| 二分查找|
 |**166**|[求分数的值](https://leetcode.com/problems/fraction-to-recurring-decimal/description/)|[C++](166.Fraction%20to%20Recurring%20Decimal/166.cpp)|[Note](166.Fraction%20to%20Recurring%20Decimal/README.md)|Medium|数学 \| 鲁棒性|
@@ -108,7 +108,7 @@ Leetcode solutions in C++ 11
 |**204**|[计数质数](https://leetcode.com/problems/count-primes/description/)|[C++](204.Count%20Primes/204.cpp)|[Note](204.Count%20Primes/README.md)|Easy|数学|
 |206|[链表反序](https://leetcode.com/problems/reverse-linked-list/description/)|[C++](206.Reverse%20Linked%20List/206.cpp)|[Note](206.Reverse%20Linked%20List/README.md)|Easy|链表|
 |**207**|[课程安排](https://leetcode.com/problems/course-schedule/description/)|[C++](207.Course%20Schedule/207.cpp)|[Note](207.Course%20Schedule/README.md)|Medium|图 \| 拓扑排序|
-|**208**|[实现Trie树(前缀树)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)|[C++](208.Implement%20Trie/208.cpp)|Note|Medium|Trie树|
+|**208**|[实现Trie树(前缀树)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)|[C++](208.Implement%20Trie/208.cpp)|Note|Medium|类设计 \| Trie树|
 |**210**|[课程安排II](https://leetcode.com/problems/course-schedule-ii/description/)|[C++](210.Course%20Schedule%20II/210.cpp)|[Note](210.Course%20Schedule%20II/README.md)|Medium|图 \| 拓扑排序|
 |**212**|[单词搜索II](https://leetcode.com/problems/word-search-ii/description/)|[C++](212.Word%20Search%20II/212.cpp)|[Note](212.Word%20Search%20II/README.md)|Hard|Trie树 \| 字符串|
 |215|[数组中第K大的元素](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[C++](215.Kth%20Largest%20Element%20in%20an%20Array/215.cpp)|[Note](215.Kth%20Largest%20Element%20in%20an%20Array/README.md)|Medium|数组|
@@ -116,10 +116,10 @@ Leetcode solutions in C++ 11
 |**218**|[天际线问题](https://leetcode.com/problems/the-skyline-problem/description/)|[C++](218.The%20Skyline%20Problem/218.cpp)|[Note](218.The%20Skyline%20Problem/README.md)|Hard|几何|
 |**227**|[基础的计算器II](https://leetcode.com/problems/basic-calculator-ii/description/)|[C++](227.Basic%20Calculator%20II/227.cpp)|[Note](227.Basic%20Calculator%20II/README.md)|Medium|数学 \| 鲁棒性|
 |230|[BST中第K小的元素](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[C++](230.Kth%20Smallest%20Element%20in%20a%20BST/230.cpp)|[Note](230.Kth%20Smallest%20Element%20in%20a%20BST/README.md)|Medium|BST|
-|236|[二叉树的最低公共祖先](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)|[C++](236.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236.cpp)|[Note](236.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/README.md)|Medium|二叉树|
-|238|[除自身外的乘积数组](https://leetcode.com/problems/product-of-array-except-self/description/)|[C++](238.Product%20of%20Array%20Except%20Self/238.cpp)|[Note](238.Product%20of%20Array%20Except%20Self/README.md)|Medium|数组|
 |**234**|[回文链表](https://leetcode.com/problems/palindrome-linked-list/description/)|[C++](234.Palindrome%20Linked%20List/234.cpp)|[Note](234.Palindrome%20Linked%20List/README.md)|Easy|链表|
+|236|[二叉树的最低公共祖先](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)|[C++](236.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236.cpp)|[Note](236.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/README.md)|Medium|二叉树|
 |237|[删除链表中的节点](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|[C++](237.Delete%20Node%20in%20a%20Linked%20List/237.cpp)|[Note](237.Delete%20Node%20in%20a%20Linked%20List/README.md)|Easy|链表|
+|238|[除自身外的乘积数组](https://leetcode.com/problems/product-of-array-except-self/description/)|[C++](238.Product%20of%20Array%20Except%20Self/238.cpp)|[Note](238.Product%20of%20Array%20Except%20Self/README.md)|Medium|数组|
 |**239**|[滑动窗口的最大值](https://leetcode.com/problems/sliding-window-maximum/description/)|[C++](239.Sliding%20Window%20Maximum/239.cpp)|[Note](239.Sliding%20Window%20Maximum/README.md)|Hard|数组|
 |240|[二维矩阵中查找元素](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[C++](240.Search%20a%202D%20Matrix%20II/240.cpp)|[Note](240.Search%20a%202D%20Matrix%20II/README.md)|Medium|数组|
 |242|[有效的字母异位词](https://leetcode.com/problems/valid-anagram/description/)|[C++](242.Valid%20Anagram/242.cpp)|[Note](242.Valid%20Anagram/README.md)|Easy|字符串|
