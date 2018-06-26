@@ -28,7 +28,7 @@
 * 否则，如果`nums[i]`与`max_local[i - 1]`符号相同，那么`max_local[i] = nums[i] * max_local[i - 1]`，此时将前面的连续子数组并入
 * 否则，如果`nums[i]`与`max_local[i - 1]`符号不同，那么`nums[i] * max_local[i - 1]`是以`nums[i]`结尾的连续子数组的最小积，设为`min_local[i]`，如果知道`min_local[i - 1]`，那么就能求出`max_local[i]`：`max_local[i] = min_local[i - 1] * nums[i]`
 
-因此，要求出max_local[i]，同时需要维护连续子数组的最小积——`min_local`数组，对上面的分析进行总结：**因为`nums[i]`可能与`max_local[i - 1]`同号，可能异号，`max_local[i - 1]`也可能为`0`。所以`max_local[i]`取决于3个值：`max_local[i - 1]*nums[i]`、`min_local[i - 1]*nums[i]`、`nums[i]` **（**隐含了状态转移方程**）
+因此，要求出max_local[i]，同时需要维护连续子数组的最小积——`min_local`数组，对上面的分析进行总结：因为`nums[i]`可能与`max_local[i - 1]`同号，可能异号，`max_local[i - 1]`也可能为`0`。所以`max_local[i]`取决于3个值：`max_local[i - 1]*nums[i]`、`min_local[i - 1]*nums[i]`、`nums[i]`（隐含了状态转移方程）
 
 ```c++
 class Solution {
