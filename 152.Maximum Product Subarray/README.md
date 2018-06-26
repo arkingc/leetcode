@@ -1,31 +1,61 @@
-### 1）假设数组里面没有0
+给定一个整数数组 `nums` ，找出乘积最大的连续子数组（该数组至少包含一个数）
 
-* 如果前i个元素(包括元素i)中负数的个数为偶数，则前i个元素相乘的结果就是**最大值**，记为**maxLocal**
-* 如果前i个元素(包括元素i)中负数的个数为奇数，则前i个元素相乘的结果会是**最小值**，记为**minLocal**
+示例 1:
 
-考虑元素i+1，假设值为num
+```
+输入: [2,3,-2,4]
+输出: 6
+解释: 子数组 [2,3] 有最大乘积 6。
+```
 
-* 如果元素i+1为负数，则包含元素i+1的**最大值**为maxLocal\*num
-* 如果元素i+1为正数，则包含元素i+1的**最小值**为minLocal\*num
+示例 2:
 
-### 2）数组里面包含0
+```
+输入: [-2,0,-1]
+输出: 0
+解释: 结果不能为 2, 因为 [-2,-1] 不是连续子数组。
+```
 
-* 如果包含0，对于元素0之前的结果，还是符合1）中的分析
-* 对于元素0，如果包含该元素，则**最大值和最小值**都为0
-* 对于元素0之后的元素，因为前面求得的最大最小值包含0，所以需要考虑不包含前面元素的情况，即只包含当前元素（假设i+1为1，而前一个元素为0，如果包含0最大最小值都为0，而只包含i+1的结果才是最大值）
+### 解答
 
-也就是说，如果maxLocal或minLocal为0，则考虑一个新元素时，不能仅仅只根据该元素与maxLocal，minLocal的乘积来更新这两个值，还要考虑该元素单独作为子数组的情况
+假设`max_local[i]`表示以`nums[i]`结尾的连续子数组的最大积，如果能求出所有`max_local`，那么最大者就是答案
 
-### 结合
+现在看怎么求`max_local[i]`：
 
-如果分情况讨论，会很复杂，0的个数和位置都不确定
+* 如果`max_local[i - 1]`为`0`
+    - 当`nums[i]`大于等于`0`时，`max_local[i] = nums[i]`，与前面的子数组无关
+    - 当`nums[i]`小于`0`时，`max_local[i] = 0`
+* 否则，如果`nums[i]`与`max_local[i - 1]`符号相同，那么`max_local[i] = nums[i] * max_local[i - 1]`，此时将前面的连续子数组并入
+* 否则，如果`nums[i]`与`max_local[i - 1]`符号不同，那么`nums[i] * max_local[i - 1]`是以`nums[i]`结尾的连续子数组的最小积，设为`min_local[i]`，如果知道`min_local[i - 1]`，那么就能求出`max_local[i]`：`max_local[i] = min_local[i - 1] * nums[i]`
 
-在1）这种情况下：
-* 当前maxLocal = max(前一maxLocal\*num , 前一minLocal\*num)
-* 当前minLocal = min(前一maxLocal\*num , 前一minLocal\*num)
+因此，要求出max_local[i]，同时需要维护连续子数组的最小积——`min_local`数组，对上面的分析进行总结：**因为`nums[i]`可能与`max_local[i - 1]`同号，可能异号，`max_local[i - 1]`也可能为`0`。所以`max_local[i]`取决于3个值：`max_local[i - 1]*nums[i]`、`min_local[i - 1]*nums[i]`、`nums[i]` **（**隐含了状态转移方程**）
 
-而2）这种情况下：
-* 当前maxLocal = max(前一maxLocal\*num , 前一minLocal\*num , num)
-* 当前minLocal = min(前一maxLocal\*num , 前一minLocal\*num , num)
-
-所以考虑1）能否也使用2）这种表达式，由于数组不包含0时，单独的一个元素不可能成为最小值或最大值，所有将num也作为比较并不影响结果
+```c++
+class Solution {
+public:
+    int maxProduct(vector<int>& nums) {
+        if(nums.empty())    return 0;
+        
+        int max_global = nums[0];
+        int max_local = nums[0],min_local = nums[0];
+        
+        for(int i = 1;i < nums.size();i++){
+            int _max = max(max_local * nums[i],min_local * nums[i],nums[i]);
+            int _min = min(max_local * nums[i],min_local * nums[i],nums[i]);
+            max_local = _max;
+            min_local = _min;
+            if(max_local > max_global)  max_global = max_local;
+        }
+        
+        return max_global;
+    }
+private:
+    int max(int num1,int num2,int num3){
+        return num1 > num2 ? (num1 > num3 ? num1 : num3) : (num2 > num3 ? num2 : num3); 
+    }
+    
+    int min(int num1,int num2,int num3){
+        return num1 < num2 ? (num1 < num3 ? num1 : num3) : (num2 < num3 ? num2 : num3);
+    }
+};
+```

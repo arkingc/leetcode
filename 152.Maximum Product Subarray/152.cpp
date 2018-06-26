@@ -1,27 +1,27 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int sz = nums.size();
+        if(nums.empty())    return 0;
         
-        if(sz == 0) return 0; 
+        int max_global = nums[0];
+        int max_local = nums[0],min_local = nums[0];
         
-        int maxGlobal = nums[0],maxLocal = nums[0],minLocal = nums[0];
-        int tp1,tp2;
-
-        for(int i = 1;i < sz;i++){
-            tp1 = max(maxLocal * nums[i],minLocal * nums[i],nums[i]);
-            tp2 = min(maxLocal * nums[i],minLocal * nums[i],nums[i]);
-            maxLocal = tp1,minLocal = tp2;
-            if(maxGlobal < maxLocal)    maxGlobal = maxLocal;
+        for(int i = 1;i < nums.size();i++){
+            int _max = max(max_local * nums[i],min_local * nums[i],nums[i]);
+            int _min = min(max_local * nums[i],min_local * nums[i],nums[i]);
+            max_local = _max;
+            min_local = _min;
+            if(max_local > max_global)  max_global = max_local;
         }
         
-        return maxGlobal;
+        return max_global;
     }
 private:
-    int max(const int &v1,const int &v2,const int &v3){
-        return v1 >= v2 ? (v1 >= v3 ? v1 : v3) : (v2 >= v3 ? v2 : v3);    
+    int max(int num1,int num2,int num3){
+        return num1 > num2 ? (num1 > num3 ? num1 : num3) : (num2 > num3 ? num2 : num3); 
     }
-    int min(const int &v1,const int &v2,const int &v3){
-        return v1 <= v2 ? (v1 <= v3 ? v1 : v3) : (v2 <= v3 ? v2 : v3);
+    
+    int min(int num1,int num2,int num3){
+        return num1 < num2 ? (num1 < num3 ? num1 : num3) : (num2 < num3 ? num2 : num3);
     }
 };
