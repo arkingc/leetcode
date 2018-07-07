@@ -37,6 +37,7 @@ Leetcode solutions in C++ 11
 |**41**|[第一个缺失的正数](https://leetcode.com/problems/first-missing-positive/discuss/)|[C++](41.First%20Missing%20Positive/41.cpp)|[Note](41.First%20Missing%20Positive/README.md)|Hard|查找|
 |**42**|[接雨水](https://leetcode.com/problems/trapping-rain-water/solution/)|[C++](42.Trapping%20Rain%20Water/42.cpp)|[Note](42.Trapping%20Rain%20Water/README.md)|Hard|数组|
 |**44**|[通配符匹配](https://leetcode.com/problems/wildcard-matching/description/)|[C++](44.Wildcard%20Matching/44.cpp)|[Note](44.Wildcard%20Matching/README.md)|Hard|字符串 \| 动态规划|
+|**45**|[跳步游戏II](https://leetcode.com/problems/jump-game-ii/description/)|[C++](45.Jump%20Game%20II/45.cpp)|[Note](45.Jump%20Game%20II/README.md)|Hard|动态规划 \| BFS|
 |46|[(不含相同元素的)整形数组的全排列](https://leetcode.com/problems/permutations/description/)|[C++](46.Permutations/46.cpp)|[Note](46.Permutations/README.md)|Medium|全排列|
 |47|[(含相同元素的)整形数组的全排列](https://leetcode.com/problems/permutations-ii/description/)|[C++](47.Permutations%20II/47.cpp)|[Note](47.Permutations%20II/README.md)|Medium|全排列|
 |48|[90度旋转图片](https://leetcode.com/problems/rotate-image/description/)|[C++](48.Rotate%20Image/48.cpp)|[Note](48.Rotate%20Image/README.md)|Medium|数组|
@@ -147,7 +148,7 @@ Leetcode solutions in C++ 11
 |380|[实现O(1)的插入删除与随机获取](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)|[C++](380.Insert%20Delete%20GetRandom%20O(1)/380.cpp)|Note|Medium|类设计|
 |384|[打乱数组](https://leetcode.com/problems/shuffle-an-array/description/)|[C++](384.Shuffle%20an%20Array/384.cpp)|[Note](384.Shuffle%20an%20Array/README.md)|Medium|数组 \| 洗牌算法|
 |387|[字符串中的第一个唯一字符](https://leetcode.com/problems/first-unique-character-in-a-string/description/)|[C++](387.First%20Unique%20Character%20in%20a%20String/387.cpp)|[Note](387.First%20Unique%20Character%20in%20a%20String/README.md)|Easy|字符串|
-|**395**|[至少有K个重复字符的最长子串](https://leetcode.com/problems/shuffle-an-array/description/)|[C++](395.Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/395.cpp)|[Note](395.Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/README.md)|Medium|字符串|
+|**395**|[至少有K个重复字符的最长子串](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/)|[C++](395.Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/395.cpp)|[Note](395.Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/README.md)|Medium|字符串|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)|[C++](412.Fizz%20Buzz/412.cpp)|[Note](412.Fizz%20Buzz/README.md)|Easy||
 |454|[四数相加II](https://leetcode.com/problems/4sum-ii/description/)|[C++](454.4Sum%20II/454.cpp)|[Note](454.4Sum%20II/README.md)|Medium|数组 \| 哈希表|
 |695|[岛屿的最大面积](https://leetcode.com/problems/max-area-of-island/description/)|[C++](695.Max%20Area%20of%20Island/695.cpp)|[Note](695.Max%20Area%20of%20Island/README.md)|Easy|图|
